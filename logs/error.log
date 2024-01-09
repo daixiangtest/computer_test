@@ -1,0 +1,298 @@
+2023-12-21 16:35:00,799 - [object_page.py - 88] - ERROR://*[@class="css-3m4nqy ant-btn ant-btn-primary ant-btn-s"]元素点击失败
+2023-12-21 16:35:00,799 - [object_page.py - 88] - ERROR://*[@class="css-3m4nqy ant-btn ant-btn-primary ant-btn-s"]元素点击失败
+2023-12-21 16:35:00,799 - [object_page.py - 88] - ERROR://*[@class="css-3m4nqy ant-btn ant-btn-primary ant-btn-s"]元素点击失败
+2023-12-21 16:51:27,360 - [log_utils.py - 44] - ERROR:11
+2023-12-22 15:46:55,963 - [my_ssh_client.py - 40] - ERROR:上传文件:computer_test/comms/test01失败
+2023-12-22 15:47:27,306 - [my_ssh_client.py - 40] - ERROR:上传文件:C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\computer_test\comms\test01失败
+2023-12-22 15:51:56,398 - [my_ssh_client.py - 40] - ERROR:上传文件:C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\computer_test\comms\test01失败
+2023-12-22 15:54:18,322 - [my_ssh_client.py - 50] - ERROR:下载文件:/home/daixiang/shell_test/hello.sh失败
+2023-12-22 15:56:58,925 - [my_ssh_client.py - 50] - ERROR:下载文件:/home/daixiang/shell_test/hello.sh失败
+2023-12-22 15:58:40,607 - [my_ssh_client.py - 50] - ERROR:下载文件:/home/daixiang/shell_test/hello.sh失败
+2023-12-22 16:01:58,509 - [my_ssh_client.py - 19] - ERROR:链接服务器192.168.25.128:22失败
+2023-12-22 16:02:28,631 - [my_ssh_client.py - 50] - ERROR:下载文件:/home/daixiang/shell_test/hello.sh失败
+2023-12-22 17:31:26,183 - [transport.py - 1893] - ERROR:Unknown exception: Expected unicode or bytes, got <class 'int'>
+2023-12-22 17:31:26,183 - [transport.py - 1893] - ERROR:Unknown exception: Expected unicode or bytes, got <class 'int'>
+2023-12-22 17:31:26,195 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2023-12-22 17:31:26,195 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2023-12-22 17:31:26,197 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2185, in run
+2023-12-22 17:31:26,197 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2185, in run
+2023-12-22 17:31:26,197 - [transport.py - 1891] - ERROR:    handler(m)
+2023-12-22 17:31:26,197 - [transport.py - 1891] - ERROR:    handler(m)
+2023-12-22 17:31:26,197 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\auth_handler.py", line 390, in _parse_service_accept
+2023-12-22 17:31:26,197 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\auth_handler.py", line 390, in _parse_service_accept
+2023-12-22 17:31:26,197 - [transport.py - 1891] - ERROR:    password = b(self.password)
+2023-12-22 17:31:26,197 - [transport.py - 1891] - ERROR:    password = b(self.password)
+2023-12-22 17:31:26,197 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\util.py", line 326, in b
+2023-12-22 17:31:26,197 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\util.py", line 326, in b
+2023-12-22 17:31:26,198 - [transport.py - 1891] - ERROR:    raise TypeError(f"Expected unicode or bytes, got {type(s)}")
+2023-12-22 17:31:26,198 - [transport.py - 1891] - ERROR:    raise TypeError(f"Expected unicode or bytes, got {type(s)}")
+2023-12-22 17:31:26,198 - [transport.py - 1891] - ERROR:TypeError: Expected unicode or bytes, got <class 'int'>
+2023-12-22 17:31:26,198 - [transport.py - 1891] - ERROR:TypeError: Expected unicode or bytes, got <class 'int'>
+2023-12-22 17:31:26,198 - [transport.py - 1891] - ERROR:
+2023-12-22 17:31:26,198 - [transport.py - 1891] - ERROR:
+2023-12-22 17:31:26,199 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41045失败
+2023-12-22 17:31:26,199 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41045失败
+2023-12-22 17:31:26,199 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41045失败
+2023-12-22 17:33:49,442 - [transport.py - 1893] - ERROR:Unknown exception: Expected unicode or bytes, got <class 'int'>
+2023-12-22 17:33:49,442 - [transport.py - 1893] - ERROR:Unknown exception: Expected unicode or bytes, got <class 'int'>
+2023-12-22 17:33:49,445 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2023-12-22 17:33:49,445 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2023-12-22 17:33:49,446 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2185, in run
+2023-12-22 17:33:49,446 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2185, in run
+2023-12-22 17:33:49,447 - [transport.py - 1891] - ERROR:    handler(m)
+2023-12-22 17:33:49,447 - [transport.py - 1891] - ERROR:    handler(m)
+2023-12-22 17:33:49,447 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\auth_handler.py", line 390, in _parse_service_accept
+2023-12-22 17:33:49,447 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\auth_handler.py", line 390, in _parse_service_accept
+2023-12-22 17:33:49,448 - [transport.py - 1891] - ERROR:    password = b(self.password)
+2023-12-22 17:33:49,448 - [transport.py - 1891] - ERROR:    password = b(self.password)
+2023-12-22 17:33:49,448 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\util.py", line 326, in b
+2023-12-22 17:33:49,448 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\util.py", line 326, in b
+2023-12-22 17:33:49,449 - [transport.py - 1891] - ERROR:    raise TypeError(f"Expected unicode or bytes, got {type(s)}")
+2023-12-22 17:33:49,449 - [transport.py - 1891] - ERROR:    raise TypeError(f"Expected unicode or bytes, got {type(s)}")
+2023-12-22 17:33:49,449 - [transport.py - 1891] - ERROR:TypeError: Expected unicode or bytes, got <class 'int'>
+2023-12-22 17:33:49,449 - [transport.py - 1891] - ERROR:TypeError: Expected unicode or bytes, got <class 'int'>
+2023-12-22 17:33:49,450 - [transport.py - 1891] - ERROR:
+2023-12-22 17:33:49,450 - [transport.py - 1891] - ERROR:
+2023-12-22 17:33:49,451 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41045失败
+2023-12-22 17:33:49,451 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41045失败
+2023-12-22 17:33:49,451 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41045失败
+2024-01-04 11:40:29,478 - [test_cloud_server.py - 74] - ERROR:创建的实例未运行成功
+2024-01-04 11:40:29,478 - [test_cloud_server.py - 74] - ERROR:创建的实例未运行成功
+2024-01-04 14:11:07,805 - [test_cloud_server.py - 74] - ERROR:创建的实例未运行成功
+2024-01-04 14:11:07,805 - [test_cloud_server.py - 74] - ERROR:创建的实例未运行成功
+2024-01-04 14:15:56,791 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41094失败
+2024-01-04 14:17:48,985 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41093失败
+2024-01-04 14:18:05,988 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41093失败
+2024-01-04 14:18:39,228 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41093失败
+2024-01-04 15:31:54,008 - [transport.py - 1893] - ERROR:Exception (client): Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-04 15:31:54,008 - [transport.py - 1893] - ERROR:Exception (client): Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-04 15:31:54,011 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-04 15:31:54,011 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-04 15:31:54,012 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2292, in _check_banner
+2024-01-04 15:31:54,012 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2292, in _check_banner
+2024-01-04 15:31:54,012 - [transport.py - 1891] - ERROR:    buf = self.packetizer.readline(timeout)
+2024-01-04 15:31:54,012 - [transport.py - 1891] - ERROR:    buf = self.packetizer.readline(timeout)
+2024-01-04 15:31:54,013 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 374, in readline
+2024-01-04 15:31:54,013 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 374, in readline
+2024-01-04 15:31:54,013 - [transport.py - 1891] - ERROR:    buf += self._read_timeout(timeout)
+2024-01-04 15:31:54,013 - [transport.py - 1891] - ERROR:    buf += self._read_timeout(timeout)
+2024-01-04 15:31:54,013 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 601, in _read_timeout
+2024-01-04 15:31:54,013 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 601, in _read_timeout
+2024-01-04 15:31:54,014 - [transport.py - 1891] - ERROR:    x = self.__socket.recv(128)
+2024-01-04 15:31:54,014 - [transport.py - 1891] - ERROR:    x = self.__socket.recv(128)
+2024-01-04 15:31:54,014 - [transport.py - 1891] - ERROR:ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-04 15:31:54,014 - [transport.py - 1891] - ERROR:ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-04 15:31:54,015 - [transport.py - 1891] - ERROR:
+2024-01-04 15:31:54,015 - [transport.py - 1891] - ERROR:
+2024-01-04 15:31:54,015 - [transport.py - 1891] - ERROR:During handling of the above exception, another exception occurred:
+2024-01-04 15:31:54,015 - [transport.py - 1891] - ERROR:During handling of the above exception, another exception occurred:
+2024-01-04 15:31:54,015 - [transport.py - 1891] - ERROR:
+2024-01-04 15:31:54,015 - [transport.py - 1891] - ERROR:
+2024-01-04 15:31:54,015 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-04 15:31:54,015 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-04 15:31:54,016 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2113, in run
+2024-01-04 15:31:54,016 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2113, in run
+2024-01-04 15:31:54,016 - [transport.py - 1891] - ERROR:    self._check_banner()
+2024-01-04 15:31:54,016 - [transport.py - 1891] - ERROR:    self._check_banner()
+2024-01-04 15:31:54,016 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2296, in _check_banner
+2024-01-04 15:31:54,016 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2296, in _check_banner
+2024-01-04 15:31:54,016 - [transport.py - 1891] - ERROR:    raise SSHException(
+2024-01-04 15:31:54,016 - [transport.py - 1891] - ERROR:    raise SSHException(
+2024-01-04 15:31:54,016 - [transport.py - 1891] - ERROR:paramiko.ssh_exception.SSHException: Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-04 15:31:54,016 - [transport.py - 1891] - ERROR:paramiko.ssh_exception.SSHException: Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-04 15:31:54,017 - [transport.py - 1891] - ERROR:
+2024-01-04 15:31:54,017 - [transport.py - 1891] - ERROR:
+2024-01-04 15:31:54,018 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41095失败
+2024-01-04 15:31:54,018 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41095失败
+2024-01-04 15:31:54,018 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41095失败
+2024-01-05 14:52:41,947 - [transport.py - 1893] - ERROR:Exception (client): Error reading SSH protocol banner
+2024-01-05 14:52:41,947 - [transport.py - 1893] - ERROR:Exception (client): Error reading SSH protocol banner
+2024-01-05 14:52:41,973 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 14:52:41,973 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 14:52:41,973 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2292, in _check_banner
+2024-01-05 14:52:41,973 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2292, in _check_banner
+2024-01-05 14:52:41,973 - [transport.py - 1891] - ERROR:    buf = self.packetizer.readline(timeout)
+2024-01-05 14:52:41,973 - [transport.py - 1891] - ERROR:    buf = self.packetizer.readline(timeout)
+2024-01-05 14:52:41,973 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 374, in readline
+2024-01-05 14:52:41,973 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 374, in readline
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:    buf += self._read_timeout(timeout)
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:    buf += self._read_timeout(timeout)
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 603, in _read_timeout
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 603, in _read_timeout
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:    raise EOFError()
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:    raise EOFError()
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:EOFError
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:EOFError
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:During handling of the above exception, another exception occurred:
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:During handling of the above exception, another exception occurred:
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2113, in run
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2113, in run
+2024-01-05 14:52:41,975 - [transport.py - 1891] - ERROR:    self._check_banner()
+2024-01-05 14:52:41,975 - [transport.py - 1891] - ERROR:    self._check_banner()
+2024-01-05 14:52:41,975 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2296, in _check_banner
+2024-01-05 14:52:41,975 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2296, in _check_banner
+2024-01-05 14:52:41,975 - [transport.py - 1891] - ERROR:    raise SSHException(
+2024-01-05 14:52:41,975 - [transport.py - 1891] - ERROR:    raise SSHException(
+2024-01-05 14:52:41,975 - [transport.py - 1891] - ERROR:paramiko.ssh_exception.SSHException: Error reading SSH protocol banner
+2024-01-05 14:52:41,975 - [transport.py - 1891] - ERROR:paramiko.ssh_exception.SSHException: Error reading SSH protocol banner
+2024-01-05 14:52:41,975 - [transport.py - 1891] - ERROR:
+2024-01-05 14:52:41,975 - [transport.py - 1891] - ERROR:
+2024-01-05 14:52:41,976 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41094失败
+2024-01-05 14:52:41,976 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41094失败
+2024-01-05 14:52:41,976 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41094失败
+2024-01-05 15:04:44,938 - [transport.py - 1893] - ERROR:Exception (client): Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-05 15:04:44,938 - [transport.py - 1893] - ERROR:Exception (client): Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-05 15:04:44,939 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 15:04:44,939 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 15:04:44,939 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2292, in _check_banner
+2024-01-05 15:04:44,939 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2292, in _check_banner
+2024-01-05 15:04:44,939 - [transport.py - 1891] - ERROR:    buf = self.packetizer.readline(timeout)
+2024-01-05 15:04:44,939 - [transport.py - 1891] - ERROR:    buf = self.packetizer.readline(timeout)
+2024-01-05 15:04:44,939 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 374, in readline
+2024-01-05 15:04:44,939 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 374, in readline
+2024-01-05 15:04:44,939 - [transport.py - 1891] - ERROR:    buf += self._read_timeout(timeout)
+2024-01-05 15:04:44,939 - [transport.py - 1891] - ERROR:    buf += self._read_timeout(timeout)
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 601, in _read_timeout
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 601, in _read_timeout
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:    x = self.__socket.recv(128)
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:    x = self.__socket.recv(128)
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:During handling of the above exception, another exception occurred:
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:During handling of the above exception, another exception occurred:
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2113, in run
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2113, in run
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:    self._check_banner()
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:    self._check_banner()
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2296, in _check_banner
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2296, in _check_banner
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:    raise SSHException(
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:    raise SSHException(
+2024-01-05 15:04:44,941 - [transport.py - 1891] - ERROR:paramiko.ssh_exception.SSHException: Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-05 15:04:44,941 - [transport.py - 1891] - ERROR:paramiko.ssh_exception.SSHException: Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-05 15:04:44,941 - [transport.py - 1891] - ERROR:
+2024-01-05 15:04:44,941 - [transport.py - 1891] - ERROR:
+2024-01-05 15:04:44,942 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41098失败
+2024-01-05 15:04:44,942 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41098失败
+2024-01-05 15:04:44,942 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41098失败
+2024-01-05 15:08:15,496 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41098失败
+2024-01-05 15:08:15,496 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41098失败
+2024-01-05 15:08:15,496 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41098失败
+2024-01-05 15:09:11,798 - [transport.py - 1893] - ERROR:Unknown exception: Expected unicode or bytes, got <class 'int'>
+2024-01-05 15:09:11,798 - [transport.py - 1893] - ERROR:Unknown exception: Expected unicode or bytes, got <class 'int'>
+2024-01-05 15:09:11,811 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 15:09:11,811 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 15:09:11,811 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2185, in run
+2024-01-05 15:09:11,811 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2185, in run
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:    handler(m)
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:    handler(m)
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\auth_handler.py", line 390, in _parse_service_accept
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\auth_handler.py", line 390, in _parse_service_accept
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:    password = b(self.password)
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:    password = b(self.password)
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\util.py", line 326, in b
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\util.py", line 326, in b
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:    raise TypeError(f"Expected unicode or bytes, got {type(s)}")
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:    raise TypeError(f"Expected unicode or bytes, got {type(s)}")
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:TypeError: Expected unicode or bytes, got <class 'int'>
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:TypeError: Expected unicode or bytes, got <class 'int'>
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:
+2024-01-05 15:09:11,814 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41098失败
+2024-01-05 15:09:11,814 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41098失败
+2024-01-05 15:09:11,814 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41098失败
+2024-01-05 15:10:35,115 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41098失败
+2024-01-05 17:51:19,630 - [transport.py - 1893] - ERROR:Exception (client): Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-05 17:51:19,630 - [transport.py - 1893] - ERROR:Exception (client): Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-05 17:51:19,632 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 17:51:19,632 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 17:51:19,632 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2292, in _check_banner
+2024-01-05 17:51:19,632 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2292, in _check_banner
+2024-01-05 17:51:19,632 - [transport.py - 1891] - ERROR:    buf = self.packetizer.readline(timeout)
+2024-01-05 17:51:19,632 - [transport.py - 1891] - ERROR:    buf = self.packetizer.readline(timeout)
+2024-01-05 17:51:19,632 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 374, in readline
+2024-01-05 17:51:19,632 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 374, in readline
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:    buf += self._read_timeout(timeout)
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:    buf += self._read_timeout(timeout)
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 601, in _read_timeout
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 601, in _read_timeout
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:    x = self.__socket.recv(128)
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:    x = self.__socket.recv(128)
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:During handling of the above exception, another exception occurred:
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:During handling of the above exception, another exception occurred:
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 17:51:19,634 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2113, in run
+2024-01-05 17:51:19,634 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2113, in run
+2024-01-05 17:51:19,634 - [transport.py - 1891] - ERROR:    self._check_banner()
+2024-01-05 17:51:19,634 - [transport.py - 1891] - ERROR:    self._check_banner()
+2024-01-05 17:51:19,634 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2296, in _check_banner
+2024-01-05 17:51:19,634 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2296, in _check_banner
+2024-01-05 17:51:19,634 - [transport.py - 1891] - ERROR:    raise SSHException(
+2024-01-05 17:51:19,634 - [transport.py - 1891] - ERROR:    raise SSHException(
+2024-01-05 17:51:19,634 - [transport.py - 1891] - ERROR:paramiko.ssh_exception.SSHException: Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-05 17:51:19,634 - [transport.py - 1891] - ERROR:paramiko.ssh_exception.SSHException: Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-05 17:51:19,634 - [transport.py - 1891] - ERROR:
+2024-01-05 17:51:19,634 - [transport.py - 1891] - ERROR:
+2024-01-05 17:51:19,636 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41098失败
+2024-01-05 17:51:19,636 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41098失败
+2024-01-05 17:51:19,636 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41098失败
+2024-01-08 10:26:54,064 - [transport.py - 1893] - ERROR:Exception (client): Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-08 10:26:54,064 - [transport.py - 1893] - ERROR:Exception (client): Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-08 10:26:54,090 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-08 10:26:54,090 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-08 10:26:54,090 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2292, in _check_banner
+2024-01-08 10:26:54,090 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2292, in _check_banner
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:    buf = self.packetizer.readline(timeout)
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:    buf = self.packetizer.readline(timeout)
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 374, in readline
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 374, in readline
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:    buf += self._read_timeout(timeout)
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:    buf += self._read_timeout(timeout)
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 601, in _read_timeout
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 601, in _read_timeout
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:    x = self.__socket.recv(128)
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:    x = self.__socket.recv(128)
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:During handling of the above exception, another exception occurred:
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:During handling of the above exception, another exception occurred:
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2113, in run
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2113, in run
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:    self._check_banner()
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:    self._check_banner()
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2296, in _check_banner
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2296, in _check_banner
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:    raise SSHException(
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:    raise SSHException(
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:paramiko.ssh_exception.SSHException: Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:paramiko.ssh_exception.SSHException: Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:
+2024-01-08 10:26:54,094 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41099失败
+2024-01-08 10:26:54,094 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41099失败
+2024-01-08 10:26:54,094 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41099失败

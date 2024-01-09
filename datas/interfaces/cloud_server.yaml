@@ -1,0 +1,45 @@
+---
+- case_id: 1
+  case_title: "密码登录账户"
+  case_data: { phone_number: "18326447662",passwd: "Dx3826729" }
+  text: ''
+- case_id: 2
+  case_title: "创建云服务器"
+  case_data: { name: "ubuntu1",passwd: 123456 }
+  text: ''
+
+- case_id: 3
+  case_title: "创建端口映射"
+  case_data: { name: "test_mapping",port: 22 }
+  text: ''
+
+- case_id: 4
+  case_title: "验证端口映射"
+  case_data: { name: "ubuntu",passwd: "123456" }
+  text: ''
+
+- case_id: 5
+  case_title: "删除端口映射"
+  case_data: { name: "ubuntu1",passwd: 123456 }
+  text: ''
+
+- case_id: 6
+  case_title: "访问实例"
+  case_data: { name: "ubuntu1",passwd: 123456 }
+  text: ''
+
+- case_id: 7
+  case_title: "重启实例"
+  case_data: { name: "ubuntu1",passwd: 123456 }
+  text: ''
+
+- case_id: 8
+  case_title: "关闭实例"
+  case_data: { name: "ubuntu1",passwd: 123456 }
+  text: ''
+
+- case_id: 9
+  case_title: "验证实例过期"
+  case_data: { name: "ubuntu1",passwd: 123456 }
+  text: ''
+...

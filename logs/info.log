@@ -1,0 +1,903 @@
+2023-12-21 16:35:00,799 - [object_page.py - 88] - ERROR://*[@class="css-3m4nqy ant-btn ant-btn-primary ant-btn-s"]元素点击失败
+2023-12-21 16:35:00,799 - [object_page.py - 88] - ERROR://*[@class="css-3m4nqy ant-btn ant-btn-primary ant-btn-s"]元素点击失败
+2023-12-21 16:35:00,799 - [object_page.py - 88] - ERROR://*[@class="css-3m4nqy ant-btn ant-btn-primary ant-btn-s"]元素点击失败
+2023-12-21 16:51:27,360 - [log_utils.py - 44] - ERROR:11
+2023-12-21 16:51:27,361 - [log_utils.py - 45] - INFO:qq
+2023-12-21 16:54:24,291 - [test_cloud_server.py - 34] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2023-12-21 16:54:24,291 - [test_cloud_server.py - 34] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2023-12-21 17:03:33,011 - [test_cloud_server.py - 34] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2023-12-21 17:03:33,011 - [test_cloud_server.py - 34] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2023-12-21 17:04:02,696 - [test_cloud_server.py - 34] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2023-12-21 17:04:02,696 - [test_cloud_server.py - 34] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2023-12-21 17:04:15,365 - [test_cloud_server.py - 58] - INFO:测试编号:创建云服务器,测试标题:创建云服务器,执行成功！
+2023-12-21 17:04:15,365 - [test_cloud_server.py - 58] - INFO:测试编号:创建云服务器,测试标题:创建云服务器,执行成功！
+2023-12-21 17:16:01,324 - [test_cloud_server.py - 34] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2023-12-21 17:16:01,324 - [test_cloud_server.py - 34] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2023-12-22 11:35:09,973 - [test_cloud_server.py - 37] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2023-12-22 11:35:09,973 - [test_cloud_server.py - 37] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2023-12-22 11:35:14,385 - [test_cloud_server.py - 88] - INFO:测试编号:创建端口映射,测试标题:创建端口映射,执行成功！
+2023-12-22 11:35:14,385 - [test_cloud_server.py - 88] - INFO:测试编号:创建端口映射,测试标题:创建端口映射,执行成功！
+2023-12-22 15:46:55,963 - [my_ssh_client.py - 40] - ERROR:上传文件:computer_test/comms/test01失败
+2023-12-22 15:47:27,306 - [my_ssh_client.py - 40] - ERROR:上传文件:C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\computer_test\comms\test01失败
+2023-12-22 15:51:56,398 - [my_ssh_client.py - 40] - ERROR:上传文件:C:\Users\HUAWEI\Desktop\work_space\BaiduSyncdisk\auto_test\computer_test\comms\test01失败
+2023-12-22 15:54:18,322 - [my_ssh_client.py - 50] - ERROR:下载文件:/home/daixiang/shell_test/hello.sh失败
+2023-12-22 15:56:58,925 - [my_ssh_client.py - 50] - ERROR:下载文件:/home/daixiang/shell_test/hello.sh失败
+2023-12-22 15:58:40,607 - [my_ssh_client.py - 50] - ERROR:下载文件:/home/daixiang/shell_test/hello.sh失败
+2023-12-22 16:01:58,509 - [my_ssh_client.py - 19] - ERROR:链接服务器192.168.25.128:22失败
+2023-12-22 16:02:28,631 - [my_ssh_client.py - 50] - ERROR:下载文件:/home/daixiang/shell_test/hello.sh失败
+2023-12-22 17:31:23,014 - [test_cloud_server.py - 38] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2023-12-22 17:31:23,014 - [test_cloud_server.py - 38] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2023-12-22 17:31:26,109 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2023-12-22 17:31:26,109 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2023-12-22 17:31:26,183 - [transport.py - 1893] - ERROR:Unknown exception: Expected unicode or bytes, got <class 'int'>
+2023-12-22 17:31:26,183 - [transport.py - 1893] - ERROR:Unknown exception: Expected unicode or bytes, got <class 'int'>
+2023-12-22 17:31:26,195 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2023-12-22 17:31:26,195 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2023-12-22 17:31:26,197 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2185, in run
+2023-12-22 17:31:26,197 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2185, in run
+2023-12-22 17:31:26,197 - [transport.py - 1891] - ERROR:    handler(m)
+2023-12-22 17:31:26,197 - [transport.py - 1891] - ERROR:    handler(m)
+2023-12-22 17:31:26,197 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\auth_handler.py", line 390, in _parse_service_accept
+2023-12-22 17:31:26,197 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\auth_handler.py", line 390, in _parse_service_accept
+2023-12-22 17:31:26,197 - [transport.py - 1891] - ERROR:    password = b(self.password)
+2023-12-22 17:31:26,197 - [transport.py - 1891] - ERROR:    password = b(self.password)
+2023-12-22 17:31:26,197 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\util.py", line 326, in b
+2023-12-22 17:31:26,197 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\util.py", line 326, in b
+2023-12-22 17:31:26,198 - [transport.py - 1891] - ERROR:    raise TypeError(f"Expected unicode or bytes, got {type(s)}")
+2023-12-22 17:31:26,198 - [transport.py - 1891] - ERROR:    raise TypeError(f"Expected unicode or bytes, got {type(s)}")
+2023-12-22 17:31:26,198 - [transport.py - 1891] - ERROR:TypeError: Expected unicode or bytes, got <class 'int'>
+2023-12-22 17:31:26,198 - [transport.py - 1891] - ERROR:TypeError: Expected unicode or bytes, got <class 'int'>
+2023-12-22 17:31:26,198 - [transport.py - 1891] - ERROR:
+2023-12-22 17:31:26,198 - [transport.py - 1891] - ERROR:
+2023-12-22 17:31:26,199 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41045失败
+2023-12-22 17:31:26,199 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41045失败
+2023-12-22 17:31:26,199 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41045失败
+2023-12-22 17:33:49,338 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2023-12-22 17:33:49,338 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2023-12-22 17:33:49,442 - [transport.py - 1893] - ERROR:Unknown exception: Expected unicode or bytes, got <class 'int'>
+2023-12-22 17:33:49,442 - [transport.py - 1893] - ERROR:Unknown exception: Expected unicode or bytes, got <class 'int'>
+2023-12-22 17:33:49,445 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2023-12-22 17:33:49,445 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2023-12-22 17:33:49,446 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2185, in run
+2023-12-22 17:33:49,446 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2185, in run
+2023-12-22 17:33:49,447 - [transport.py - 1891] - ERROR:    handler(m)
+2023-12-22 17:33:49,447 - [transport.py - 1891] - ERROR:    handler(m)
+2023-12-22 17:33:49,447 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\auth_handler.py", line 390, in _parse_service_accept
+2023-12-22 17:33:49,447 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\auth_handler.py", line 390, in _parse_service_accept
+2023-12-22 17:33:49,448 - [transport.py - 1891] - ERROR:    password = b(self.password)
+2023-12-22 17:33:49,448 - [transport.py - 1891] - ERROR:    password = b(self.password)
+2023-12-22 17:33:49,448 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\util.py", line 326, in b
+2023-12-22 17:33:49,448 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\util.py", line 326, in b
+2023-12-22 17:33:49,449 - [transport.py - 1891] - ERROR:    raise TypeError(f"Expected unicode or bytes, got {type(s)}")
+2023-12-22 17:33:49,449 - [transport.py - 1891] - ERROR:    raise TypeError(f"Expected unicode or bytes, got {type(s)}")
+2023-12-22 17:33:49,449 - [transport.py - 1891] - ERROR:TypeError: Expected unicode or bytes, got <class 'int'>
+2023-12-22 17:33:49,449 - [transport.py - 1891] - ERROR:TypeError: Expected unicode or bytes, got <class 'int'>
+2023-12-22 17:33:49,450 - [transport.py - 1891] - ERROR:
+2023-12-22 17:33:49,450 - [transport.py - 1891] - ERROR:
+2023-12-22 17:33:49,451 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41045失败
+2023-12-22 17:33:49,451 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41045失败
+2023-12-22 17:33:49,451 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41045失败
+2023-12-22 17:36:53,701 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2023-12-22 17:36:53,701 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2023-12-22 17:36:53,776 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2023-12-22 17:36:53,776 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2023-12-22 17:48:34,790 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2023-12-22 17:48:34,790 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2023-12-22 17:48:34,895 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2023-12-22 17:48:34,895 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-03 15:52:48,999 - [test_cloud_server.py - 29] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 15:52:48,999 - [test_cloud_server.py - 29] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 16:08:31,741 - [test_cloud_server.py - 31] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 16:08:31,741 - [test_cloud_server.py - 31] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 16:14:38,681 - [test_cloud_server.py - 31] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 16:14:38,681 - [test_cloud_server.py - 31] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 16:17:16,364 - [test_cloud_server.py - 32] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 16:17:16,364 - [test_cloud_server.py - 32] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 16:37:19,994 - [test_cloud_server.py - 31] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 16:37:19,994 - [test_cloud_server.py - 31] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 16:39:56,297 - [test_cloud_server.py - 31] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 16:39:56,297 - [test_cloud_server.py - 31] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 16:40:40,719 - [test_cloud_server.py - 31] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 16:40:40,719 - [test_cloud_server.py - 31] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 16:40:40,794 - [test_cloud_server.py - 51] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-03 16:40:40,794 - [test_cloud_server.py - 51] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-03 16:57:48,603 - [test_cloud_server.py - 33] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 16:57:48,603 - [test_cloud_server.py - 33] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 16:57:48,665 - [test_cloud_server.py - 54] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-03 16:57:48,665 - [test_cloud_server.py - 54] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-03 16:59:08,356 - [test_cloud_server.py - 33] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 16:59:08,356 - [test_cloud_server.py - 33] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 16:59:08,429 - [test_cloud_server.py - 54] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-03 16:59:08,429 - [test_cloud_server.py - 54] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-03 17:00:24,842 - [test_cloud_server.py - 33] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 17:00:24,842 - [test_cloud_server.py - 33] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 17:00:24,904 - [test_cloud_server.py - 54] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-03 17:00:24,904 - [test_cloud_server.py - 54] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-03 17:02:49,475 - [test_cloud_server.py - 33] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 17:02:49,475 - [test_cloud_server.py - 33] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 17:02:49,816 - [test_cloud_server.py - 54] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-03 17:02:49,816 - [test_cloud_server.py - 54] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-03 17:02:49,936 - [test_cloud_server.py - 74] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-03 17:02:49,936 - [test_cloud_server.py - 74] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-03 17:03:08,741 - [test_cloud_server.py - 33] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 17:03:08,741 - [test_cloud_server.py - 33] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 17:03:08,981 - [test_cloud_server.py - 54] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-03 17:03:08,981 - [test_cloud_server.py - 54] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-03 17:03:09,065 - [test_cloud_server.py - 75] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-03 17:03:09,065 - [test_cloud_server.py - 75] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-03 17:04:32,855 - [test_cloud_server.py - 33] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 17:04:32,855 - [test_cloud_server.py - 33] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 17:04:32,940 - [test_cloud_server.py - 54] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-03 17:04:32,940 - [test_cloud_server.py - 54] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-03 17:04:33,246 - [test_cloud_server.py - 75] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-03 17:04:33,246 - [test_cloud_server.py - 75] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-03 17:10:38,045 - [test_cloud_server.py - 34] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 17:10:38,045 - [test_cloud_server.py - 34] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 17:10:38,132 - [test_cloud_server.py - 56] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-03 17:10:38,132 - [test_cloud_server.py - 56] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-03 17:10:38,208 - [test_cloud_server.py - 78] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-03 17:10:38,208 - [test_cloud_server.py - 78] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-03 17:29:06,837 - [test_cloud_server.py - 31] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 17:29:06,837 - [test_cloud_server.py - 31] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 17:38:11,943 - [test_cloud_server.py - 31] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 17:38:11,943 - [test_cloud_server.py - 31] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 17:43:28,377 - [test_cloud_server.py - 31] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 17:43:28,377 - [test_cloud_server.py - 31] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 17:43:28,540 - [test_cloud_server.py - 49] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-03 17:43:28,540 - [test_cloud_server.py - 49] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-03 17:43:28,630 - [test_cloud_server.py - 70] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-03 17:43:28,630 - [test_cloud_server.py - 70] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-03 17:44:36,248 - [test_cloud_server.py - 31] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 17:44:36,248 - [test_cloud_server.py - 31] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-03 17:44:36,328 - [test_cloud_server.py - 49] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-03 17:44:36,328 - [test_cloud_server.py - 49] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-03 17:44:36,425 - [test_cloud_server.py - 69] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-03 17:44:36,425 - [test_cloud_server.py - 69] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-04 10:43:58,409 - [test_cloud_server.py - 38] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-04 10:43:58,409 - [test_cloud_server.py - 38] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-04 10:47:49,676 - [test_cloud_server.py - 38] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-04 10:47:49,676 - [test_cloud_server.py - 38] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-04 10:48:41,668 - [test_cloud_server.py - 38] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-04 10:48:41,668 - [test_cloud_server.py - 38] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-04 10:49:22,755 - [test_cloud_server.py - 38] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-04 10:49:22,755 - [test_cloud_server.py - 38] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-04 10:50:23,122 - [test_cloud_server.py - 38] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-04 10:50:23,122 - [test_cloud_server.py - 38] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-04 10:51:23,440 - [test_cloud_server.py - 69] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-04 10:51:23,440 - [test_cloud_server.py - 69] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-04 10:55:15,556 - [test_cloud_server.py - 38] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-04 10:55:15,556 - [test_cloud_server.py - 38] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-04 11:07:10,586 - [test_cloud_server.py - 38] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-04 11:07:10,586 - [test_cloud_server.py - 38] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-04 11:09:23,988 - [test_cloud_server.py - 38] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-04 11:09:23,988 - [test_cloud_server.py - 38] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-04 11:09:29,397 - [test_cloud_server.py - 75] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-04 11:09:29,397 - [test_cloud_server.py - 75] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-04 11:09:31,159 - [test_cloud_server.py - 103] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-04 11:09:31,159 - [test_cloud_server.py - 103] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-04 11:10:02,504 - [test_cloud_server.py - 38] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-04 11:10:02,504 - [test_cloud_server.py - 38] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-04 11:11:10,368 - [test_cloud_server.py - 103] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-04 11:11:10,368 - [test_cloud_server.py - 103] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-04 11:39:29,199 - [test_cloud_server.py - 40] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-04 11:39:29,199 - [test_cloud_server.py - 40] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-04 11:40:29,478 - [test_cloud_server.py - 74] - ERROR:创建的实例未运行成功
+2024-01-04 11:40:29,478 - [test_cloud_server.py - 74] - ERROR:创建的实例未运行成功
+2024-01-04 14:10:07,654 - [test_cloud_server.py - 40] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-04 14:10:07,654 - [test_cloud_server.py - 40] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-04 14:11:07,805 - [test_cloud_server.py - 74] - ERROR:创建的实例未运行成功
+2024-01-04 14:11:07,805 - [test_cloud_server.py - 74] - ERROR:创建的实例未运行成功
+2024-01-04 14:11:08,965 - [test_cloud_server.py - 106] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-04 14:11:08,965 - [test_cloud_server.py - 106] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-04 14:15:56,791 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41094失败
+2024-01-04 14:17:48,985 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41093失败
+2024-01-04 14:18:05,988 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41093失败
+2024-01-04 14:18:39,228 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41093失败
+2024-01-04 15:12:23,615 - [test_cloud_server.py - 107] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-04 15:12:23,615 - [test_cloud_server.py - 107] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-04 15:31:51,951 - [test_cloud_server.py - 107] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-04 15:31:51,951 - [test_cloud_server.py - 107] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-04 15:31:54,008 - [transport.py - 1893] - ERROR:Exception (client): Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-04 15:31:54,008 - [transport.py - 1893] - ERROR:Exception (client): Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-04 15:31:54,011 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-04 15:31:54,011 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-04 15:31:54,012 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2292, in _check_banner
+2024-01-04 15:31:54,012 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2292, in _check_banner
+2024-01-04 15:31:54,012 - [transport.py - 1891] - ERROR:    buf = self.packetizer.readline(timeout)
+2024-01-04 15:31:54,012 - [transport.py - 1891] - ERROR:    buf = self.packetizer.readline(timeout)
+2024-01-04 15:31:54,013 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 374, in readline
+2024-01-04 15:31:54,013 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 374, in readline
+2024-01-04 15:31:54,013 - [transport.py - 1891] - ERROR:    buf += self._read_timeout(timeout)
+2024-01-04 15:31:54,013 - [transport.py - 1891] - ERROR:    buf += self._read_timeout(timeout)
+2024-01-04 15:31:54,013 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 601, in _read_timeout
+2024-01-04 15:31:54,013 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 601, in _read_timeout
+2024-01-04 15:31:54,014 - [transport.py - 1891] - ERROR:    x = self.__socket.recv(128)
+2024-01-04 15:31:54,014 - [transport.py - 1891] - ERROR:    x = self.__socket.recv(128)
+2024-01-04 15:31:54,014 - [transport.py - 1891] - ERROR:ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-04 15:31:54,014 - [transport.py - 1891] - ERROR:ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-04 15:31:54,015 - [transport.py - 1891] - ERROR:
+2024-01-04 15:31:54,015 - [transport.py - 1891] - ERROR:
+2024-01-04 15:31:54,015 - [transport.py - 1891] - ERROR:During handling of the above exception, another exception occurred:
+2024-01-04 15:31:54,015 - [transport.py - 1891] - ERROR:During handling of the above exception, another exception occurred:
+2024-01-04 15:31:54,015 - [transport.py - 1891] - ERROR:
+2024-01-04 15:31:54,015 - [transport.py - 1891] - ERROR:
+2024-01-04 15:31:54,015 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-04 15:31:54,015 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-04 15:31:54,016 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2113, in run
+2024-01-04 15:31:54,016 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2113, in run
+2024-01-04 15:31:54,016 - [transport.py - 1891] - ERROR:    self._check_banner()
+2024-01-04 15:31:54,016 - [transport.py - 1891] - ERROR:    self._check_banner()
+2024-01-04 15:31:54,016 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2296, in _check_banner
+2024-01-04 15:31:54,016 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2296, in _check_banner
+2024-01-04 15:31:54,016 - [transport.py - 1891] - ERROR:    raise SSHException(
+2024-01-04 15:31:54,016 - [transport.py - 1891] - ERROR:    raise SSHException(
+2024-01-04 15:31:54,016 - [transport.py - 1891] - ERROR:paramiko.ssh_exception.SSHException: Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-04 15:31:54,016 - [transport.py - 1891] - ERROR:paramiko.ssh_exception.SSHException: Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-04 15:31:54,017 - [transport.py - 1891] - ERROR:
+2024-01-04 15:31:54,017 - [transport.py - 1891] - ERROR:
+2024-01-04 15:31:54,018 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41095失败
+2024-01-04 15:31:54,018 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41095失败
+2024-01-04 15:31:54,018 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41095失败
+2024-01-04 17:37:07,821 - [test_cloud_server.py - 109] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-04 17:37:07,821 - [test_cloud_server.py - 109] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-04 17:37:07,909 - [test_cloud_server.py - 150] - INFO:测试编号:5,测试标题:删除端口映射,成功!
+2024-01-04 17:37:07,909 - [test_cloud_server.py - 150] - INFO:测试编号:5,测试标题:删除端口映射,成功!
+2024-01-04 17:39:06,844 - [test_cloud_server.py - 109] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-04 17:39:06,844 - [test_cloud_server.py - 109] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-04 17:39:06,930 - [test_cloud_server.py - 151] - INFO:测试编号:5,测试标题:删除端口映射,成功!
+2024-01-04 17:39:06,930 - [test_cloud_server.py - 151] - INFO:测试编号:5,测试标题:删除端口映射,成功!
+2024-01-04 17:46:59,064 - [test_cloud_server.py - 168] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-04 17:46:59,064 - [test_cloud_server.py - 168] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-04 17:47:59,358 - [test_cloud_server.py - 169] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-04 17:47:59,358 - [test_cloud_server.py - 169] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-04 18:01:41,385 - [test_cloud_server.py - 186] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-04 18:01:41,385 - [test_cloud_server.py - 186] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-04 18:02:16,128 - [test_cloud_server.py - 169] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-04 18:02:16,128 - [test_cloud_server.py - 169] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-04 18:02:16,187 - [test_cloud_server.py - 186] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-04 18:02:16,187 - [test_cloud_server.py - 186] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-04 18:42:21,483 - [test_cloud_server.py - 169] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-04 18:42:21,483 - [test_cloud_server.py - 169] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-04 18:42:21,555 - [test_cloud_server.py - 188] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-04 18:42:21,555 - [test_cloud_server.py - 188] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 14:52:41,896 - [test_cloud_server.py - 83] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-05 14:52:41,896 - [test_cloud_server.py - 83] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-05 14:52:41,900 - [pytest_dependency.py - 100] - INFO:skip test_create_mapping because it depends on T
+2024-01-05 14:52:41,900 - [pytest_dependency.py - 100] - INFO:skip test_create_mapping because it depends on T
+2024-01-05 14:52:41,947 - [transport.py - 1893] - ERROR:Exception (client): Error reading SSH protocol banner
+2024-01-05 14:52:41,947 - [transport.py - 1893] - ERROR:Exception (client): Error reading SSH protocol banner
+2024-01-05 14:52:41,973 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 14:52:41,973 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 14:52:41,973 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2292, in _check_banner
+2024-01-05 14:52:41,973 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2292, in _check_banner
+2024-01-05 14:52:41,973 - [transport.py - 1891] - ERROR:    buf = self.packetizer.readline(timeout)
+2024-01-05 14:52:41,973 - [transport.py - 1891] - ERROR:    buf = self.packetizer.readline(timeout)
+2024-01-05 14:52:41,973 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 374, in readline
+2024-01-05 14:52:41,973 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 374, in readline
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:    buf += self._read_timeout(timeout)
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:    buf += self._read_timeout(timeout)
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 603, in _read_timeout
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 603, in _read_timeout
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:    raise EOFError()
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:    raise EOFError()
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:EOFError
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:EOFError
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:During handling of the above exception, another exception occurred:
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:During handling of the above exception, another exception occurred:
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2113, in run
+2024-01-05 14:52:41,974 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2113, in run
+2024-01-05 14:52:41,975 - [transport.py - 1891] - ERROR:    self._check_banner()
+2024-01-05 14:52:41,975 - [transport.py - 1891] - ERROR:    self._check_banner()
+2024-01-05 14:52:41,975 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2296, in _check_banner
+2024-01-05 14:52:41,975 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2296, in _check_banner
+2024-01-05 14:52:41,975 - [transport.py - 1891] - ERROR:    raise SSHException(
+2024-01-05 14:52:41,975 - [transport.py - 1891] - ERROR:    raise SSHException(
+2024-01-05 14:52:41,975 - [transport.py - 1891] - ERROR:paramiko.ssh_exception.SSHException: Error reading SSH protocol banner
+2024-01-05 14:52:41,975 - [transport.py - 1891] - ERROR:paramiko.ssh_exception.SSHException: Error reading SSH protocol banner
+2024-01-05 14:52:41,975 - [transport.py - 1891] - ERROR:
+2024-01-05 14:52:41,975 - [transport.py - 1891] - ERROR:
+2024-01-05 14:52:41,976 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41094失败
+2024-01-05 14:52:41,976 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41094失败
+2024-01-05 14:52:41,976 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41094失败
+2024-01-05 14:52:42,398 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 14:52:42,398 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 14:52:42,398 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 14:52:42,475 - [test_cloud_server.py - 191] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 14:52:42,475 - [test_cloud_server.py - 191] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 14:52:42,475 - [test_cloud_server.py - 191] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:04:42,851 - [test_cloud_server.py - 113] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-05 15:04:42,851 - [test_cloud_server.py - 113] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-05 15:04:44,938 - [transport.py - 1893] - ERROR:Exception (client): Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-05 15:04:44,938 - [transport.py - 1893] - ERROR:Exception (client): Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-05 15:04:44,939 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 15:04:44,939 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 15:04:44,939 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2292, in _check_banner
+2024-01-05 15:04:44,939 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2292, in _check_banner
+2024-01-05 15:04:44,939 - [transport.py - 1891] - ERROR:    buf = self.packetizer.readline(timeout)
+2024-01-05 15:04:44,939 - [transport.py - 1891] - ERROR:    buf = self.packetizer.readline(timeout)
+2024-01-05 15:04:44,939 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 374, in readline
+2024-01-05 15:04:44,939 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 374, in readline
+2024-01-05 15:04:44,939 - [transport.py - 1891] - ERROR:    buf += self._read_timeout(timeout)
+2024-01-05 15:04:44,939 - [transport.py - 1891] - ERROR:    buf += self._read_timeout(timeout)
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 601, in _read_timeout
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 601, in _read_timeout
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:    x = self.__socket.recv(128)
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:    x = self.__socket.recv(128)
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:During handling of the above exception, another exception occurred:
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:During handling of the above exception, another exception occurred:
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2113, in run
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2113, in run
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:    self._check_banner()
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:    self._check_banner()
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2296, in _check_banner
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2296, in _check_banner
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:    raise SSHException(
+2024-01-05 15:04:44,940 - [transport.py - 1891] - ERROR:    raise SSHException(
+2024-01-05 15:04:44,941 - [transport.py - 1891] - ERROR:paramiko.ssh_exception.SSHException: Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-05 15:04:44,941 - [transport.py - 1891] - ERROR:paramiko.ssh_exception.SSHException: Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-05 15:04:44,941 - [transport.py - 1891] - ERROR:
+2024-01-05 15:04:44,941 - [transport.py - 1891] - ERROR:
+2024-01-05 15:04:44,942 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41098失败
+2024-01-05 15:04:44,942 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41098失败
+2024-01-05 15:04:44,942 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41098失败
+2024-01-05 15:04:45,375 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:04:45,375 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:04:45,375 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:04:45,469 - [test_cloud_server.py - 191] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:04:45,469 - [test_cloud_server.py - 191] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:04:45,469 - [test_cloud_server.py - 191] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:08:13,345 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-05 15:08:13,345 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-05 15:08:13,551 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 15:08:13,551 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 15:08:15,495 - [transport.py - 1893] - INFO:Authentication (password) failed.
+2024-01-05 15:08:15,495 - [transport.py - 1893] - INFO:Authentication (password) failed.
+2024-01-05 15:08:15,496 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41098失败
+2024-01-05 15:08:15,496 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41098失败
+2024-01-05 15:08:15,496 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41098失败
+2024-01-05 15:08:15,877 - [test_cloud_server.py - 173] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:08:15,877 - [test_cloud_server.py - 173] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:08:15,877 - [test_cloud_server.py - 173] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:09:11,591 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-05 15:09:11,591 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-05 15:09:11,781 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 15:09:11,781 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 15:09:11,798 - [transport.py - 1893] - ERROR:Unknown exception: Expected unicode or bytes, got <class 'int'>
+2024-01-05 15:09:11,798 - [transport.py - 1893] - ERROR:Unknown exception: Expected unicode or bytes, got <class 'int'>
+2024-01-05 15:09:11,811 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 15:09:11,811 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 15:09:11,811 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2185, in run
+2024-01-05 15:09:11,811 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2185, in run
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:    handler(m)
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:    handler(m)
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\auth_handler.py", line 390, in _parse_service_accept
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\auth_handler.py", line 390, in _parse_service_accept
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:    password = b(self.password)
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:    password = b(self.password)
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\util.py", line 326, in b
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\util.py", line 326, in b
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:    raise TypeError(f"Expected unicode or bytes, got {type(s)}")
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:    raise TypeError(f"Expected unicode or bytes, got {type(s)}")
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:TypeError: Expected unicode or bytes, got <class 'int'>
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:TypeError: Expected unicode or bytes, got <class 'int'>
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:
+2024-01-05 15:09:11,812 - [transport.py - 1891] - ERROR:
+2024-01-05 15:09:11,814 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41098失败
+2024-01-05 15:09:11,814 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41098失败
+2024-01-05 15:09:11,814 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41098失败
+2024-01-05 15:09:12,233 - [test_cloud_server.py - 173] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:09:12,233 - [test_cloud_server.py - 173] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:09:12,233 - [test_cloud_server.py - 173] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:10:35,115 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41098失败
+2024-01-05 15:10:53,983 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-05 15:10:53,983 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-05 15:10:54,193 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 15:10:54,193 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 15:10:54,236 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 15:10:54,236 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 15:10:54,752 - [test_cloud_server.py - 173] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:10:54,752 - [test_cloud_server.py - 173] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:11:12,813 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-05 15:11:12,813 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-05 15:11:13,003 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 15:11:13,003 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 15:11:13,070 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 15:11:13,070 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 15:11:13,729 - [test_cloud_server.py - 173] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:11:13,729 - [test_cloud_server.py - 173] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:12:07,477 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-05 15:12:07,477 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-05 15:12:07,669 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 15:12:07,669 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 15:12:07,762 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 15:12:07,762 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 15:12:08,551 - [test_cloud_server.py - 173] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:12:08,551 - [test_cloud_server.py - 173] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:12:39,176 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-05 15:12:39,176 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-05 15:12:39,594 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 15:12:39,594 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 15:12:39,659 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 15:12:39,659 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 15:12:40,005 - [test_cloud_server.py - 137] - INFO:测试编号:4,测试标题:验证端口映射,成功!
+2024-01-05 15:12:40,005 - [test_cloud_server.py - 137] - INFO:测试编号:4,测试标题:验证端口映射,成功!
+2024-01-05 15:12:40,045 - [test_cloud_server.py - 173] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:12:40,045 - [test_cloud_server.py - 173] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:13:06,571 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-05 15:13:06,571 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-05 15:13:06,816 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 15:13:06,816 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 15:13:06,877 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 15:13:06,877 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 15:13:07,157 - [test_cloud_server.py - 137] - INFO:测试编号:4,测试标题:验证端口映射,成功!
+2024-01-05 15:13:07,157 - [test_cloud_server.py - 137] - INFO:测试编号:4,测试标题:验证端口映射,成功!
+2024-01-05 15:13:07,197 - [test_cloud_server.py - 173] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:13:07,197 - [test_cloud_server.py - 173] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:14:15,476 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-05 15:14:15,476 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-05 15:14:15,671 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 15:14:15,671 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 15:14:15,939 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 15:14:15,939 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 15:14:15,999 - [test_cloud_server.py - 138] - INFO:测试编号:4,测试标题:验证端口映射,成功!
+2024-01-05 15:14:15,999 - [test_cloud_server.py - 138] - INFO:测试编号:4,测试标题:验证端口映射,成功!
+2024-01-05 15:14:16,044 - [test_cloud_server.py - 174] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:14:16,044 - [test_cloud_server.py - 174] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:14:42,998 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-05 15:14:42,998 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-05 15:14:43,188 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 15:14:43,188 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 15:14:43,272 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 15:14:43,272 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 15:14:43,586 - [test_cloud_server.py - 138] - INFO:测试编号:4,测试标题:验证端口映射,成功!
+2024-01-05 15:14:43,586 - [test_cloud_server.py - 138] - INFO:测试编号:4,测试标题:验证端口映射,成功!
+2024-01-05 15:14:43,915 - [test_cloud_server.py - 174] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:14:43,915 - [test_cloud_server.py - 174] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:19:12,814 - [test_cloud_server.py - 155] - INFO:测试编号:5,测试标题:删除端口映射,成功!
+2024-01-05 15:19:12,814 - [test_cloud_server.py - 155] - INFO:测试编号:5,测试标题:删除端口映射,成功!
+2024-01-05 15:19:12,862 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:19:12,862 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:29:51,473 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:29:51,473 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:29:51,540 - [test_cloud_server.py - 192] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:29:51,540 - [test_cloud_server.py - 192] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:34:15,463 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:34:15,463 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:37:12,575 - [test_cloud_server.py - 182] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:37:12,575 - [test_cloud_server.py - 182] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:38:53,876 - [test_cloud_server.py - 182] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:38:53,876 - [test_cloud_server.py - 182] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:40:53,177 - [test_cloud_server.py - 182] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:40:53,177 - [test_cloud_server.py - 182] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:40:53,576 - [test_cloud_server.py - 215] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:40:53,576 - [test_cloud_server.py - 215] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:42:22,080 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:42:22,080 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:42:22,171 - [test_cloud_server.py - 203] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:42:22,171 - [test_cloud_server.py - 203] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:42:33,899 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:42:33,899 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:43:16,007 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:43:16,007 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:44:33,136 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:44:33,136 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:45:33,319 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:45:33,319 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:46:25,049 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:46:25,049 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:46:47,964 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:46:47,964 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:46:48,001 - [test_cloud_server.py - 204] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:46:48,001 - [test_cloud_server.py - 204] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:47:33,594 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:47:33,594 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:50:58,956 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:50:58,956 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:51:02,107 - [test_cloud_server.py - 206] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:51:02,107 - [test_cloud_server.py - 206] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:56:08,019 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:56:08,019 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:56:11,220 - [test_cloud_server.py - 206] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 15:56:11,220 - [test_cloud_server.py - 206] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:16:44,236 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:16:44,236 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:16:47,371 - [test_cloud_server.py - 207] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:16:47,371 - [test_cloud_server.py - 207] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:16:50,589 - [test_cloud_server.py - 242] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:16:50,589 - [test_cloud_server.py - 242] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:17:27,360 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:17:27,360 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:17:30,551 - [test_cloud_server.py - 195] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:17:30,551 - [test_cloud_server.py - 195] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:17:36,818 - [test_cloud_server.py - 230] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:17:36,818 - [test_cloud_server.py - 230] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:28:09,987 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:28:09,987 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:28:10,115 - [test_cloud_server.py - 244] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-01-05 16:28:10,115 - [test_cloud_server.py - 244] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-01-05 16:29:31,257 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:29:31,257 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:29:37,750 - [test_cloud_server.py - 220] - INFO:测试编号:8,测试标题:关闭实例,成功!
+2024-01-05 16:29:37,750 - [test_cloud_server.py - 220] - INFO:测试编号:8,测试标题:关闭实例,成功!
+2024-01-05 16:29:44,020 - [test_cloud_server.py - 244] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-01-05 16:29:44,020 - [test_cloud_server.py - 244] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-01-05 16:37:24,050 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:37:24,050 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:37:24,072 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 16:37:24,072 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 16:37:24,237 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 16:37:24,237 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 16:37:24,297 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 16:37:24,297 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 16:38:41,179 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:38:41,179 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:38:41,464 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 16:38:41,464 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 16:38:42,116 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 16:38:42,116 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 16:38:42,764 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 16:38:42,764 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 16:39:08,048 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:39:08,048 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:39:08,080 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 16:39:08,080 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 16:39:08,973 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 16:39:08,973 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 16:39:09,095 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 16:39:09,095 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 16:40:38,250 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:40:38,250 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:40:38,281 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 16:40:38,281 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 16:40:38,450 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 16:40:38,450 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 16:40:38,515 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 16:40:38,515 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 16:43:22,610 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:43:22,610 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:43:22,629 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 16:43:22,629 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 16:43:22,789 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 16:43:22,789 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 16:43:22,845 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 16:43:22,845 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 16:46:14,207 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:46:14,207 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:46:14,237 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 16:46:14,237 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 16:46:14,403 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 16:46:14,403 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 16:46:14,466 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 16:46:14,466 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 16:51:30,744 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:51:30,744 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:51:30,766 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 16:51:30,766 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 16:51:30,933 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 16:51:30,933 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 16:51:30,992 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 16:51:30,992 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 16:51:48,304 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:51:48,304 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:51:48,334 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 16:51:48,334 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 16:51:48,507 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 16:51:48,507 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 16:51:48,566 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 16:51:48,566 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 16:52:45,082 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:52:45,082 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:52:45,108 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 16:52:45,108 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 16:52:45,266 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 16:52:45,266 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 16:52:45,324 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 16:52:45,324 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 16:54:00,493 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:54:00,493 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:54:00,553 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 16:54:00,553 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 16:54:00,740 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 16:54:00,740 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 16:54:01,190 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 16:54:01,190 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 16:54:27,156 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:54:27,156 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 16:54:27,585 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 16:54:27,585 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 16:54:28,032 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 16:54:28,032 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 16:54:28,092 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 16:54:28,092 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 17:00:42,724 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 17:00:42,724 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 17:00:42,758 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 17:00:42,758 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 17:00:43,692 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 17:00:43,692 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 17:00:44,815 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 17:00:44,815 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 17:03:57,802 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 17:03:57,802 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 17:03:58,843 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 17:03:58,843 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 17:03:59,920 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 17:03:59,920 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 17:04:00,346 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 17:04:00,346 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 17:06:02,725 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 17:06:02,725 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 17:06:03,856 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 17:06:03,856 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.9p1)
+2024-01-05 17:06:05,108 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 17:06:05,108 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 17:06:06,322 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 17:06:06,322 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 17:33:24,249 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 17:33:24,249 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 17:35:32,399 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 17:35:32,399 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 17:36:23,231 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 17:36:23,231 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 17:39:29,432 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 17:39:29,432 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 17:40:23,754 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 17:40:23,754 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 17:40:41,483 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 17:40:41,483 - [test_cloud_server.py - 172] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 17:42:51,291 - [test_cloud_server.py - 173] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 17:42:51,291 - [test_cloud_server.py - 173] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 17:51:14,041 - [test_cloud_server.py - 43] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-05 17:51:14,041 - [test_cloud_server.py - 43] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-05 17:51:17,331 - [test_cloud_server.py - 66] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-05 17:51:17,331 - [test_cloud_server.py - 66] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-05 17:51:17,557 - [test_cloud_server.py - 96] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-05 17:51:17,557 - [test_cloud_server.py - 96] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-05 17:51:19,630 - [transport.py - 1893] - ERROR:Exception (client): Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-05 17:51:19,630 - [transport.py - 1893] - ERROR:Exception (client): Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-05 17:51:19,632 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 17:51:19,632 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 17:51:19,632 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2292, in _check_banner
+2024-01-05 17:51:19,632 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2292, in _check_banner
+2024-01-05 17:51:19,632 - [transport.py - 1891] - ERROR:    buf = self.packetizer.readline(timeout)
+2024-01-05 17:51:19,632 - [transport.py - 1891] - ERROR:    buf = self.packetizer.readline(timeout)
+2024-01-05 17:51:19,632 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 374, in readline
+2024-01-05 17:51:19,632 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 374, in readline
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:    buf += self._read_timeout(timeout)
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:    buf += self._read_timeout(timeout)
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 601, in _read_timeout
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 601, in _read_timeout
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:    x = self.__socket.recv(128)
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:    x = self.__socket.recv(128)
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:During handling of the above exception, another exception occurred:
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:During handling of the above exception, another exception occurred:
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 17:51:19,633 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-05 17:51:19,634 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2113, in run
+2024-01-05 17:51:19,634 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2113, in run
+2024-01-05 17:51:19,634 - [transport.py - 1891] - ERROR:    self._check_banner()
+2024-01-05 17:51:19,634 - [transport.py - 1891] - ERROR:    self._check_banner()
+2024-01-05 17:51:19,634 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2296, in _check_banner
+2024-01-05 17:51:19,634 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2296, in _check_banner
+2024-01-05 17:51:19,634 - [transport.py - 1891] - ERROR:    raise SSHException(
+2024-01-05 17:51:19,634 - [transport.py - 1891] - ERROR:    raise SSHException(
+2024-01-05 17:51:19,634 - [transport.py - 1891] - ERROR:paramiko.ssh_exception.SSHException: Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-05 17:51:19,634 - [transport.py - 1891] - ERROR:paramiko.ssh_exception.SSHException: Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-05 17:51:19,634 - [transport.py - 1891] - ERROR:
+2024-01-05 17:51:19,634 - [transport.py - 1891] - ERROR:
+2024-01-05 17:51:19,636 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41098失败
+2024-01-05 17:51:19,636 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41098失败
+2024-01-05 17:51:19,636 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41098失败
+2024-01-05 17:51:20,062 - [test_cloud_server.py - 140] - INFO:测试编号:5,测试标题:删除端口映射,成功!
+2024-01-05 17:51:20,062 - [test_cloud_server.py - 140] - INFO:测试编号:5,测试标题:删除端口映射,成功!
+2024-01-05 17:51:20,062 - [test_cloud_server.py - 140] - INFO:测试编号:5,测试标题:删除端口映射,成功!
+2024-01-05 17:51:20,109 - [test_cloud_server.py - 157] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 17:51:20,109 - [test_cloud_server.py - 157] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 17:51:20,109 - [test_cloud_server.py - 157] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 17:51:32,511 - [test_cloud_server.py - 181] - INFO:测试编号:7,测试标题:重启实例,成功!
+2024-01-05 17:51:32,511 - [test_cloud_server.py - 181] - INFO:测试编号:7,测试标题:重启实例,成功!
+2024-01-05 17:51:32,511 - [test_cloud_server.py - 181] - INFO:测试编号:7,测试标题:重启实例,成功!
+2024-01-05 17:51:35,694 - [test_cloud_server.py - 205] - INFO:测试编号:8,测试标题:关闭实例,成功!
+2024-01-05 17:51:35,694 - [test_cloud_server.py - 205] - INFO:测试编号:8,测试标题:关闭实例,成功!
+2024-01-05 17:51:35,694 - [test_cloud_server.py - 205] - INFO:测试编号:8,测试标题:关闭实例,成功!
+2024-01-05 17:51:41,933 - [test_cloud_server.py - 229] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-01-05 17:51:41,933 - [test_cloud_server.py - 229] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-01-05 17:51:41,933 - [test_cloud_server.py - 229] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-01-05 17:54:25,584 - [test_cloud_server.py - 96] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-05 17:54:25,584 - [test_cloud_server.py - 96] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-05 17:54:25,626 - [test_cloud_server.py - 157] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 17:54:25,626 - [test_cloud_server.py - 157] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 17:56:33,062 - [test_cloud_server.py - 96] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-05 17:56:33,062 - [test_cloud_server.py - 96] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-05 17:56:33,111 - [test_cloud_server.py - 157] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 17:56:33,111 - [test_cloud_server.py - 157] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 18:07:35,078 - [test_cloud_server.py - 96] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-05 18:07:35,078 - [test_cloud_server.py - 96] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-05 18:07:35,125 - [test_cloud_server.py - 157] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 18:07:35,125 - [test_cloud_server.py - 157] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 18:08:17,869 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-05 18:08:17,869 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-05 18:08:18,064 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 18:08:18,064 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-05 18:08:18,114 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 18:08:18,114 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-05 18:08:18,615 - [test_cloud_server.py - 119] - INFO:测试编号:4,测试标题:验证端口映射,成功!
+2024-01-05 18:08:18,615 - [test_cloud_server.py - 119] - INFO:测试编号:4,测试标题:验证端口映射,成功!
+2024-01-05 18:08:18,657 - [test_cloud_server.py - 157] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 18:08:18,657 - [test_cloud_server.py - 157] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 18:08:43,659 - [test_cloud_server.py - 140] - INFO:测试编号:5,测试标题:删除端口映射,成功!
+2024-01-05 18:08:43,659 - [test_cloud_server.py - 140] - INFO:测试编号:5,测试标题:删除端口映射,成功!
+2024-01-05 18:08:43,698 - [test_cloud_server.py - 157] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 18:08:43,698 - [test_cloud_server.py - 157] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 18:09:11,958 - [test_cloud_server.py - 157] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 18:09:11,958 - [test_cloud_server.py - 157] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 18:09:18,194 - [test_cloud_server.py - 181] - INFO:测试编号:7,测试标题:重启实例,成功!
+2024-01-05 18:09:18,194 - [test_cloud_server.py - 181] - INFO:测试编号:7,测试标题:重启实例,成功!
+2024-01-05 18:09:33,851 - [test_cloud_server.py - 157] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 18:09:33,851 - [test_cloud_server.py - 157] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 18:09:37,019 - [test_cloud_server.py - 205] - INFO:测试编号:8,测试标题:关闭实例,成功!
+2024-01-05 18:09:37,019 - [test_cloud_server.py - 205] - INFO:测试编号:8,测试标题:关闭实例,成功!
+2024-01-05 18:10:17,197 - [test_cloud_server.py - 157] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 18:10:17,197 - [test_cloud_server.py - 157] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-05 18:10:23,439 - [test_cloud_server.py - 229] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-01-05 18:10:23,439 - [test_cloud_server.py - 229] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-01-08 10:24:59,992 - [test_cloud_server.py - 156] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-08 10:24:59,992 - [test_cloud_server.py - 156] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-08 10:25:06,760 - [test_cloud_server.py - 228] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-01-08 10:25:06,760 - [test_cloud_server.py - 228] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-01-08 10:26:48,729 - [test_cloud_server.py - 64] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-08 10:26:48,729 - [test_cloud_server.py - 64] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-01-08 10:26:48,956 - [test_cloud_server.py - 94] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-08 10:26:48,956 - [test_cloud_server.py - 94] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-08 10:26:54,064 - [transport.py - 1893] - ERROR:Exception (client): Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-08 10:26:54,064 - [transport.py - 1893] - ERROR:Exception (client): Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-08 10:26:54,090 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-08 10:26:54,090 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-08 10:26:54,090 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2292, in _check_banner
+2024-01-08 10:26:54,090 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2292, in _check_banner
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:    buf = self.packetizer.readline(timeout)
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:    buf = self.packetizer.readline(timeout)
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 374, in readline
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 374, in readline
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:    buf += self._read_timeout(timeout)
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:    buf += self._read_timeout(timeout)
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 601, in _read_timeout
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 601, in _read_timeout
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:    x = self.__socket.recv(128)
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:    x = self.__socket.recv(128)
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:During handling of the above exception, another exception occurred:
+2024-01-08 10:26:54,091 - [transport.py - 1891] - ERROR:During handling of the above exception, another exception occurred:
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2113, in run
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2113, in run
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:    self._check_banner()
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:    self._check_banner()
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2296, in _check_banner
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2296, in _check_banner
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:    raise SSHException(
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:    raise SSHException(
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:paramiko.ssh_exception.SSHException: Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:paramiko.ssh_exception.SSHException: Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:
+2024-01-08 10:26:54,092 - [transport.py - 1891] - ERROR:
+2024-01-08 10:26:54,094 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41099失败
+2024-01-08 10:26:54,094 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41099失败
+2024-01-08 10:26:54,094 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41099失败
+2024-01-08 10:26:54,852 - [test_cloud_server.py - 139] - INFO:测试编号:5,测试标题:删除端口映射,成功!
+2024-01-08 10:26:54,852 - [test_cloud_server.py - 139] - INFO:测试编号:5,测试标题:删除端口映射,成功!
+2024-01-08 10:26:54,852 - [test_cloud_server.py - 139] - INFO:测试编号:5,测试标题:删除端口映射,成功!
+2024-01-08 10:26:54,895 - [test_cloud_server.py - 156] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-08 10:26:54,895 - [test_cloud_server.py - 156] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-08 10:26:54,895 - [test_cloud_server.py - 156] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-08 10:27:01,191 - [test_cloud_server.py - 228] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-01-08 10:27:01,191 - [test_cloud_server.py - 228] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-01-08 10:27:01,191 - [test_cloud_server.py - 228] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-01-08 10:34:44,365 - [test_cloud_server.py - 154] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-08 10:34:44,365 - [test_cloud_server.py - 154] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-08 10:34:50,663 - [test_cloud_server.py - 176] - INFO:测试编号:7,测试标题:重启实例,成功!
+2024-01-08 10:34:50,663 - [test_cloud_server.py - 176] - INFO:测试编号:7,测试标题:重启实例,成功!
+2024-01-08 10:34:57,163 - [test_cloud_server.py - 198] - INFO:测试编号:8,测试标题:关闭实例,成功!
+2024-01-08 10:34:57,163 - [test_cloud_server.py - 198] - INFO:测试编号:8,测试标题:关闭实例,成功!
+2024-01-08 10:35:00,417 - [test_cloud_server.py - 220] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-01-08 10:35:00,417 - [test_cloud_server.py - 220] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-01-08 10:37:42,686 - [test_cloud_server.py - 154] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-08 10:37:42,686 - [test_cloud_server.py - 154] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-08 10:37:42,813 - [test_cloud_server.py - 239] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-01-08 10:37:42,813 - [test_cloud_server.py - 239] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-01-08 10:42:36,662 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-08 10:42:36,662 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-08 10:42:37,367 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-08 10:42:37,367 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-08 10:42:37,550 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-08 10:42:37,550 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-08 10:42:38,037 - [test_cloud_server.py - 118] - INFO:测试编号:4,测试标题:验证端口映射,成功!
+2024-01-08 10:42:38,037 - [test_cloud_server.py - 118] - INFO:测试编号:4,测试标题:验证端口映射,成功!
+2024-01-08 10:42:38,154 - [test_cloud_server.py - 154] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-08 10:42:38,154 - [test_cloud_server.py - 154] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-08 10:46:25,401 - [test_cloud_server.py - 94] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-08 10:46:25,401 - [test_cloud_server.py - 94] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-08 10:46:28,461 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-08 10:46:28,461 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-08 10:46:28,672 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-08 10:46:28,672 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-08 10:46:29,130 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-08 10:46:29,130 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-08 10:46:29,576 - [test_cloud_server.py - 118] - INFO:测试编号:4,测试标题:验证端口映射,成功!
+2024-01-08 10:46:29,576 - [test_cloud_server.py - 118] - INFO:测试编号:4,测试标题:验证端口映射,成功!
+2024-01-08 10:46:29,920 - [test_cloud_server.py - 154] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-08 10:46:29,920 - [test_cloud_server.py - 154] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-09 10:38:30,624 - [test_s3_storage.py - 32] - INFO:测试编号:1,测试标题:创建存储罐,成功!
+2024-01-09 10:38:30,624 - [test_s3_storage.py - 32] - INFO:测试编号:1,测试标题:创建存储罐,成功!
+2024-01-09 10:42:56,622 - [test_s3_storage.py - 32] - INFO:测试编号:1,测试标题:创建存储罐,成功!
+2024-01-09 10:42:56,622 - [test_s3_storage.py - 32] - INFO:测试编号:1,测试标题:创建存储罐,成功!
+2024-01-09 10:45:12,813 - [test_s3_storage.py - 32] - INFO:测试编号:1,测试标题:创建存储罐,成功!
+2024-01-09 10:45:12,813 - [test_s3_storage.py - 32] - INFO:测试编号:1,测试标题:创建存储罐,成功!
+2024-01-09 10:46:31,694 - [test_s3_storage.py - 32] - INFO:测试编号:1,测试标题:创建存储罐,成功!
+2024-01-09 10:46:31,694 - [test_s3_storage.py - 32] - INFO:测试编号:1,测试标题:创建存储罐,成功!
+2024-01-09 11:08:45,235 - [test_s3_storage.py - 66] - INFO:测试编号:2,测试标题:在存储罐中创建文件夹,成功!
+2024-01-09 11:08:45,235 - [test_s3_storage.py - 66] - INFO:测试编号:2,测试标题:在存储罐中创建文件夹,成功!
+2024-01-09 11:27:29,966 - [test_s3_storage.py - 70] - INFO:测试编号:2,测试标题:在存储罐中创建文件夹,成功!
+2024-01-09 11:27:29,966 - [test_s3_storage.py - 70] - INFO:测试编号:2,测试标题:在存储罐中创建文件夹,成功!
+2024-01-09 11:38:36,465 - [test_s3_storage.py - 99] - INFO:测试编号:3,测试标题:在存储罐中创建文件,成功!
+2024-01-09 11:38:36,465 - [test_s3_storage.py - 99] - INFO:测试编号:3,测试标题:在存储罐中创建文件,成功!
+2024-01-09 14:24:16,681 - [test_s3_storage.py - 130] - INFO:测试编号:4,测试标题:在存储罐中的文件夹中上传文件,成功!
+2024-01-09 14:24:16,681 - [test_s3_storage.py - 130] - INFO:测试编号:4,测试标题:在存储罐中的文件夹中上传文件,成功!
+2024-01-09 14:40:59,018 - [test_s3_storage.py - 155] - INFO:测试编号:5,测试标题:在储存罐中下载文件,成功!
+2024-01-09 14:40:59,018 - [test_s3_storage.py - 155] - INFO:测试编号:5,测试标题:在储存罐中下载文件,成功!
+2024-01-09 14:43:35,984 - [test_s3_storage.py - 155] - INFO:测试编号:5,测试标题:在储存罐中下载文件,成功!
+2024-01-09 14:43:35,984 - [test_s3_storage.py - 155] - INFO:测试编号:5,测试标题:在储存罐中下载文件,成功!
+2024-01-09 14:49:58,266 - [test_s3_storage.py - 153] - INFO:测试编号:5,测试标题:在储存罐中下载文件,成功!
+2024-01-09 14:49:58,266 - [test_s3_storage.py - 153] - INFO:测试编号:5,测试标题:在储存罐中下载文件,成功!
+2024-01-09 14:54:38,885 - [test_s3_storage.py - 174] - INFO:测试编号:5,测试标题:在储存罐中下载文件,成功!
+2024-01-09 14:54:38,885 - [test_s3_storage.py - 174] - INFO:测试编号:5,测试标题:在储存罐中下载文件,成功!
+2024-01-09 15:02:24,354 - [test_s3_storage.py - 206] - INFO:测试编号:7,测试标题:删除存储罐,成功!
+2024-01-09 15:02:24,354 - [test_s3_storage.py - 206] - INFO:测试编号:7,测试标题:删除存储罐,成功!
+2024-01-09 15:21:00,251 - [test_s3_storage.py - 43] - INFO:测试编号:1,测试标题:创建存储罐,成功!
+2024-01-09 15:21:00,251 - [test_s3_storage.py - 43] - INFO:测试编号:1,测试标题:创建存储罐,成功!
+2024-01-09 15:21:02,346 - [test_s3_storage.py - 119] - INFO:测试编号:4,测试标题:在存储罐中的文件夹中上传文件,成功!
+2024-01-09 15:21:02,346 - [test_s3_storage.py - 119] - INFO:测试编号:4,测试标题:在存储罐中的文件夹中上传文件,成功!
+2024-01-09 15:21:02,766 - [test_s3_storage.py - 136] - INFO:测试编号:5,测试标题:在储存罐中下载文件,成功!
+2024-01-09 15:21:02,766 - [test_s3_storage.py - 136] - INFO:测试编号:5,测试标题:在储存罐中下载文件,成功!
+2024-01-09 15:21:49,838 - [test_s3_storage.py - 181] - INFO:测试编号:7,测试标题:删除存储罐,成功!
+2024-01-09 15:21:49,838 - [test_s3_storage.py - 181] - INFO:测试编号:7,测试标题:删除存储罐,成功!
+2024-01-09 15:31:05,144 - [test_s3_storage.py - 43] - INFO:测试编号:1,测试标题:创建存储罐,成功!
+2024-01-09 15:31:05,144 - [test_s3_storage.py - 43] - INFO:测试编号:1,测试标题:创建存储罐,成功!
+2024-01-09 15:31:05,307 - [test_s3_storage.py - 67] - INFO:测试编号:2,测试标题:在存储罐中创建文件夹,成功!
+2024-01-09 15:31:05,307 - [test_s3_storage.py - 67] - INFO:测试编号:2,测试标题:在存储罐中创建文件夹,成功!
+2024-01-09 15:31:06,260 - [test_s3_storage.py - 90] - INFO:测试编号:3,测试标题:在存储罐中创建文件,成功!
+2024-01-09 15:31:06,260 - [test_s3_storage.py - 90] - INFO:测试编号:3,测试标题:在存储罐中创建文件,成功!
+2024-01-09 15:31:06,680 - [test_s3_storage.py - 117] - INFO:测试编号:4,测试标题:在存储罐中的文件夹中上传文件,成功!
+2024-01-09 15:31:06,680 - [test_s3_storage.py - 117] - INFO:测试编号:4,测试标题:在存储罐中的文件夹中上传文件,成功!
+2024-01-09 15:31:07,182 - [test_s3_storage.py - 134] - INFO:测试编号:5,测试标题:在储存罐中下载文件,成功!
+2024-01-09 15:31:07,182 - [test_s3_storage.py - 134] - INFO:测试编号:5,测试标题:在储存罐中下载文件,成功!
+2024-01-09 15:31:47,310 - [test_s3_storage.py - 154] - INFO:测试编号:6,测试标题:清空存储罐,成功!
+2024-01-09 15:31:47,310 - [test_s3_storage.py - 154] - INFO:测试编号:6,测试标题:清空存储罐,成功!
+2024-01-09 15:31:47,599 - [test_s3_storage.py - 179] - INFO:测试编号:7,测试标题:删除存储罐,成功!
+2024-01-09 15:31:47,599 - [test_s3_storage.py - 179] - INFO:测试编号:7,测试标题:删除存储罐,成功!
