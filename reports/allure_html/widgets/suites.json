@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "91ca3fddcf15198c9e42b7846e918fff",
+    "name" : "云服务器",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 9,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 10
+    }
+  } ]
+}

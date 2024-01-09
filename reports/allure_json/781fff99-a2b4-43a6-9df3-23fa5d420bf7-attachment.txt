@@ -1,0 +1,3 @@
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1014 Starting new HTTPS connection (1): computeshare.newtouch.com:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:473 https://computeshare.newtouch.com:443 "GET /api/v1/instance/a793f1fd-0571-4999-af5e-784891503f85/vnc HTTP/1.1" 200 178
+[32mINFO    [0m root:test_cloud_server.py:154 测试编号:6,测试标题:访问实例,成功!

@@ -16,17 +16,4 @@ from comms.constants import REPORT_JSON, REPORT_HTML, CASE_CLOUD_SERVER
 if __name__ == '__main__':
     pytest.main(
         ['-vs', '--alluredir', REPORT_JSON, '--clean-alluredir', CASE_CLOUD_SERVER])
-    os.system('allure generate %s -o %s --clean ' % (
-        REPORT_JSON, REPORT_HTML))
-    time.sleep(5)
-    os.system("exit")
-    # &  allure serve %s -h 172.16.9.140 -p 1688  , REPORT_JSON  开启allure server 远程访问
-    # 判断是否存在，存在先删除
-    # if os.path.exists('reports.zip'):
-    #     os.system('del -s -q reports.zip')
-    # email = smtp_email_send.SendEmail(r"reports.zip", r'reports', r"reports.zip")
-    # # 压缩文件夹
-    # email.zipDir()
-    # time.sleep(3)
-    # # 调取发送邮件接口，传入文件参数
-    # email.run("983643937@qq.com")
+    os.system('allure generate %s -o %s --clean ' % (REPORT_JSON, REPORT_HTML))

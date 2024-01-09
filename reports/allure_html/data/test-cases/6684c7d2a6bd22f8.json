@@ -1,0 +1,68 @@
+{
+  "uid" : "6684c7d2a6bd22f8",
+  "name" : "test_del_mapping",
+  "fullName" : "Desktop.work_space.BaiduSyncdisk.auto_test.computer_test.test_cases.test_interfaces.test_cloud_server.TestCloudServer#test_del_mapping",
+  "historyId" : "542dfa0a562c0d7822b8376695f00736",
+  "time" : {
+    "start" : 1704799906590,
+    "stop" : 1704799906590,
+    "duration" : 0
+  },
+  "description" : "删除端口映射",
+  "descriptionHtml" : "<p>删除端口映射</p>\n",
+  "status" : "skipped",
+  "statusMessage" : "Skipped: 暂时跳过",
+  "statusTrace" : "('C:\\\\Users\\\\HUAWEI\\\\Desktop\\\\work_space\\\\BaiduSyncdisk\\\\auto_test\\\\computer_test\\\\test_cases\\\\test_interfaces\\\\test_cloud_server.py', 124, 'Skipped: 暂时跳过')",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "云服务器"
+  }, {
+    "name" : "feature",
+    "value" : "云服务器模块"
+  }, {
+    "name" : "epic",
+    "value" : "共享算力系统"
+  }, {
+    "name" : "parentSuite",
+    "value" : "云服务器"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.skip('暂时跳过')"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCloudServer"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-UIN85NG6"
+  }, {
+    "name" : "thread",
+    "value" : "16388-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Desktop.work_space.BaiduSyncdisk.auto_test.computer_test.test_cases.test_interfaces.test_cloud_server"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skip('暂时跳过')" ]
+  },
+  "source" : "6684c7d2a6bd22f8.json",
+  "parameterValues" : [ ]
+}

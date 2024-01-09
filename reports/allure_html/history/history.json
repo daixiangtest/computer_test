@@ -1,0 +1,201 @@
+{
+  "508c6262fe02775b6acfbfd91e7f8baa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2a2a28a9740239ae",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 暂时跳过",
+      "time" : {
+        "start" : 1704799906642,
+        "stop" : 1704799906642,
+        "duration" : 0
+      }
+    } ]
+  },
+  "691122589599420722121722445f07ab" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f1893412c7ba1113",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 暂时跳过",
+      "time" : {
+        "start" : 1704799906634,
+        "stop" : 1704799906634,
+        "duration" : 0
+      }
+    } ]
+  },
+  "cd8e9f1fd75f39dd09c4f0356e2dd848" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4e10e5062755c1ef",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 暂时跳过",
+      "time" : {
+        "start" : 1704799906587,
+        "stop" : 1704799906587,
+        "duration" : 0
+      }
+    } ]
+  },
+  "05875979f47f9807898617aee9013605" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "804a166731e6ce3",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 暂时跳过",
+      "time" : {
+        "start" : 1704799906640,
+        "stop" : 1704799906640,
+        "duration" : 0
+      }
+    } ]
+  },
+  "542dfa0a562c0d7822b8376695f00736" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6684c7d2a6bd22f8",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 暂时跳过",
+      "time" : {
+        "start" : 1704799906590,
+        "stop" : 1704799906590,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2fb0fd4b1e9b0c40e640fdf34bd35a33" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "359ebcb4d9438475",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 暂时跳过",
+      "time" : {
+        "start" : 1704799906584,
+        "stop" : 1704799906584,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d5604751eb04b0726f724c3dd61e5c60" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f7c543edca06e61d",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 暂时跳过",
+      "time" : {
+        "start" : 1704799906637,
+        "stop" : 1704799906637,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5b75280634a7d827e7c9d891e2e4de18" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c69503d9f75e3cad",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 跳过测试",
+      "time" : {
+        "start" : 1704799906580,
+        "stop" : 1704799906580,
+        "duration" : 0
+      }
+    } ]
+  },
+  "b0bb32f29c9d9f40b33ed0f09e08c837" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4ac4d5adb1deea84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704799906595,
+        "stop" : 1704799906633,
+        "duration" : 38
+      }
+    } ]
+  },
+  "e4da59c668f95146dc470797b23ca22e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "725272f3fc6062df",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 测试通过了",
+      "time" : {
+        "start" : 1704799906576,
+        "stop" : 1704799906576,
+        "duration" : 0
+      }
+    } ]
+  }
+}

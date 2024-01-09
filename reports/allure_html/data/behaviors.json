@@ -1,0 +1,133 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "共享算力系统",
+    "children" : [ {
+      "name" : "云服务器模块",
+      "children" : [ {
+        "name" : "test_login",
+        "uid" : "725272f3fc6062df",
+        "parentUid" : "21f3c40b5394ce522b98c618ea02e462",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1704799906576,
+          "stop" : 1704799906576,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_create_computer",
+        "uid" : "c69503d9f75e3cad",
+        "parentUid" : "21f3c40b5394ce522b98c618ea02e462",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1704799906580,
+          "stop" : 1704799906580,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_create_mapping",
+        "uid" : "359ebcb4d9438475",
+        "parentUid" : "21f3c40b5394ce522b98c618ea02e462",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1704799906584,
+          "stop" : 1704799906584,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_check_mapping",
+        "uid" : "4e10e5062755c1ef",
+        "parentUid" : "21f3c40b5394ce522b98c618ea02e462",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1704799906587,
+          "stop" : 1704799906587,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_del_mapping",
+        "uid" : "6684c7d2a6bd22f8",
+        "parentUid" : "21f3c40b5394ce522b98c618ea02e462",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1704799906590,
+          "stop" : 1704799906590,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "访问实例",
+        "uid" : "4ac4d5adb1deea84",
+        "parentUid" : "21f3c40b5394ce522b98c618ea02e462",
+        "status" : "passed",
+        "time" : {
+          "start" : 1704799906595,
+          "stop" : 1704799906633,
+          "duration" : 38
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_restart_computer",
+        "uid" : "f1893412c7ba1113",
+        "parentUid" : "21f3c40b5394ce522b98c618ea02e462",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1704799906634,
+          "stop" : 1704799906634,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_stop_computer",
+        "uid" : "f7c543edca06e61d",
+        "parentUid" : "21f3c40b5394ce522b98c618ea02e462",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1704799906637,
+          "stop" : 1704799906637,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_start_computer",
+        "uid" : "804a166731e6ce3",
+        "parentUid" : "21f3c40b5394ce522b98c618ea02e462",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1704799906640,
+          "stop" : 1704799906640,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_del_computer",
+        "uid" : "2a2a28a9740239ae",
+        "parentUid" : "21f3c40b5394ce522b98c618ea02e462",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1704799906642,
+          "stop" : 1704799906642,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "21f3c40b5394ce522b98c618ea02e462"
+    } ],
+    "uid" : "47172561267f0963d5c99299c0280724"
+  } ],
+  "name" : "behaviors"
+}

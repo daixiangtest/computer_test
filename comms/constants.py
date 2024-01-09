@@ -10,7 +10,8 @@ BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 
 # 测试用例执行文件所在路径
 CASE_DIR = os.path.join(BASE_DIR, r'test_cases')
-CASE_LOGIN = os.path.join(CASE_DIR, r'test_login\test_login.py')
+CASE_CLOUD_SERVER = os.path.join(CASE_DIR, r'test_interfaces/test_cloud_server.py')
+CASE_S3 = os.path.join(CASE_DIR, r'test_interfaces/test_s3_storage.py')
 # 测试数据所在路径
 DATA_DIR = os.path.join(BASE_DIR, 'datas')
 CLOUD_SERVER_WEB = os.path.join(DATA_DIR, 'web')

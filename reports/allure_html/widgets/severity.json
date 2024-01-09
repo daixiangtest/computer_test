@@ -1,0 +1,101 @@
+[ {
+  "uid" : "f1893412c7ba1113",
+  "name" : "test_restart_computer",
+  "time" : {
+    "start" : 1704799906634,
+    "stop" : 1704799906634,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "725272f3fc6062df",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1704799906576,
+    "stop" : 1704799906576,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4ac4d5adb1deea84",
+  "name" : "访问实例",
+  "time" : {
+    "start" : 1704799906595,
+    "stop" : 1704799906633,
+    "duration" : 38
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c69503d9f75e3cad",
+  "name" : "test_create_computer",
+  "time" : {
+    "start" : 1704799906580,
+    "stop" : 1704799906580,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "804a166731e6ce3",
+  "name" : "test_start_computer",
+  "time" : {
+    "start" : 1704799906640,
+    "stop" : 1704799906640,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "359ebcb4d9438475",
+  "name" : "test_create_mapping",
+  "time" : {
+    "start" : 1704799906584,
+    "stop" : 1704799906584,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4e10e5062755c1ef",
+  "name" : "test_check_mapping",
+  "time" : {
+    "start" : 1704799906587,
+    "stop" : 1704799906587,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2a2a28a9740239ae",
+  "name" : "test_del_computer",
+  "time" : {
+    "start" : 1704799906642,
+    "stop" : 1704799906642,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f7c543edca06e61d",
+  "name" : "test_stop_computer",
+  "time" : {
+    "start" : 1704799906637,
+    "stop" : 1704799906637,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6684c7d2a6bd22f8",
+  "name" : "test_del_mapping",
+  "time" : {
+    "start" : 1704799906590,
+    "stop" : 1704799906590,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]
