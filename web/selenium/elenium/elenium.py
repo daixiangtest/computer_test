@@ -34,21 +34,23 @@ class CloudServer:
     create_button = (By.XPATH, '//*[@class="css-3m4nqy ant-btn ant-btn-primary ant-btn-m"]')
     # 实例状态
     instance_status = (
-        By.XPATH, '//*[@id="rc-tabs-1-panel-1"]/div[2]/div[1]/div/div[1]/div[4]/label[2]')
+        By.XPATH, '//*[@id="rc-tabs-0-panel-1"]/div[2]/div/div/div[1]/div[4]/label[2]')
     # 实例状态选项按钮
     instance_options = (By.XPATH, '//*[@class="w-[28px] cursor-pointer"]')
     # 切换不同的实例状态
     instance_options_number = (By.XPATH, '//*[@class="tips-css"]')
     # 展示的实例名称
     instance_name_page = (By.XPATH, '//*[@class="text-[21px] font-semibold text-ellipsis pr-[15px]"]')
+    # vnc输入框
+    instance_vnc = (By.XPATH, '//*[@id="screen"]/div/canvas')
 
 
 # 网络映射页面操作
 class NetworkMapping:
     # 点击网络映射按钮
-    network_mapping = (By.XPATH, '//*[@id="rc-tabs-1-tab-2"]')
+    network_mapping = (By.XPATH, '//*[@id="rc-tabs-0-tab-2"]')
     # 创建映射按钮
-    create_mapping = (By.XPATH, '//*[@id="rc-tabs-1-panel-2"]/div/div[1]/button')
+    create_mapping = (By.XPATH, '//*[@id="rc-tabs-0-panel-2"]/div/div[1]/button')
     # 映射描述输入框
     mapping_description = (By.XPATH, '//*[@id="basic_des"]')
     # 支持的协议与实例的选择框（0代表协议1代表实例）
@@ -58,6 +60,11 @@ class NetworkMapping:
     # 私网端口输入框
     private_port = (By.XPATH, '//*[@id="basic_instancePort"]')
     # 展示的公网端口号
-    public_port = (By.XPATH, '/html/body/div[3]/div/div[2]/div/div[2]/div[2]/div/form/div[6]/div/div[2]/div/div/div')
-    # 确认按钮
+    public_port = (
+        By.XPATH, '//*[@id="rc-tabs-0-panel-2"]/div/div[2]/div/div/div/div/div/div/div/table/tbody/tr[1]/td[5]')
+    # 确认按钮      '//*[@id="rc-tabs-0-panel-2"]/div/div[2]/div/div/div/div/div/div/div/table/tbody/tr[1]/td[5]
     confirm = (By.XPATH, '//*[@class="css-3m4nqy ant-btn ant-btn-primary w-[200px] h-[38px]"]')
+    # 删除映射按钮
+    delete_mapping = (By.XPATH,
+                      '//*[@id="rc-tabs-0-panel-2"]/div/div[2]/div/div/div/div/div/div/div/table/tbody/tr[1]/td[8]/span/span[3]')
+    delete_confirm = (By.XPATH, '/html/body/div[3]/div/div/div/div[2]/div/div/div[2]/button[2]/span')

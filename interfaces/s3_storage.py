@@ -87,13 +87,12 @@ class S3Storage(ProjectsComputer):
         response = requests.request("GET", url, headers=headers)
         return response.json()
 
-    def upload_s3(self, bucket_name, file_path, file_name=None, file_type=None, prefix=None):
+    def upload_s3(self, bucket_name, file_path, file_name=None, prefix=None):
         """
         上传文件至储存罐中
         :param bucket_name: 储存罐的名称
         :param file_path: 上传文件的路径
         :param file_name: 上传后命名的文件名称
-        :param file_type: 文件类型
         :param prefix: 选择上传到的文件夹中
         :return:
         """
@@ -102,17 +101,17 @@ class S3Storage(ProjectsComputer):
         type = None
         if file_name is None:
             file_name = file_path
-        if file_type == '.zip' or file_type is None:
+        if file_path.endswith(".zip"):
             type = 'application/zip'
-        elif file_type == '.jpg':
+        elif file_path.endswith('.jpg'):
             type = 'image/png'
-        elif file_type == '.py' or file_type == '.java':
+        elif file_path.endswith('.py') or file_path.endswith('.java'):
             type = 'application/octet-stream'
-        elif file_type == '.doc':
+        elif file_path.endswith('doc'):
             type = 'application/msword'
-        elif file_type == '.json':
+        elif file_path.endswith('.json'):
             type = 'application/json'
-        elif file_type == '.xlsx':
+        elif file_path.endswith('.xlsx'):
             type = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
         files = [('file', (file_name, open(file_path, 'rb'), type)), ]
         headers = {

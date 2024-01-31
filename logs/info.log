@@ -904,3 +904,204 @@
 2024-01-09 19:25:31,105 - [test_cloud_server.py - 154] - INFO:测试编号:6,测试标题:访问实例,成功!
 2024-01-09 19:29:04,331 - [test_cloud_server.py - 154] - INFO:测试编号:6,测试标题:访问实例,成功!
 2024-01-09 19:31:46,632 - [test_cloud_server.py - 154] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-10 11:13:06,158 - [test_cloud_server.py - 40] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-10 11:13:06,158 - [test_cloud_server.py - 40] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-10 11:13:30,891 - [test_cloud_server.py - 40] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-10 11:13:30,891 - [test_cloud_server.py - 40] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-10 16:14:45,804 - [test_cloud_server.py - 40] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-10 16:14:45,804 - [test_cloud_server.py - 40] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-10 16:25:42,922 - [object_page.py - 160] - ERROR:元素为//*[@id="rc-tabs-1-panel-1"]/div[2]/div[1]/div/div[1]/div[4]/label[2]查询文本失败
+2024-01-10 16:25:42,922 - [object_page.py - 160] - ERROR:元素为//*[@id="rc-tabs-1-panel-1"]/div[2]/div[1]/div/div[1]/div[4]/label[2]查询文本失败
+2024-01-10 16:25:42,922 - [object_page.py - 160] - ERROR:元素为//*[@id="rc-tabs-1-panel-1"]/div[2]/div[1]/div/div[1]/div[4]/label[2]查询文本失败
+2024-01-10 16:54:28,360 - [object_page.py - 160] - ERROR:元素为//*[@id="rc-tabs-1-panel-1"]/div[2]/div[1]/div/div[1]/div[4]/label[2]查询文本失败
+2024-01-10 16:54:28,360 - [object_page.py - 160] - ERROR:元素为//*[@id="rc-tabs-1-panel-1"]/div[2]/div[1]/div/div[1]/div[4]/label[2]查询文本失败
+2024-01-10 16:54:28,360 - [object_page.py - 160] - ERROR:元素为//*[@id="rc-tabs-1-panel-1"]/div[2]/div[1]/div/div[1]/div[4]/label[2]查询文本失败
+2024-01-10 17:36:27,679 - [test_cloud_server.py - 70] - INFO:测试编号:创建云服务器,测试标题:创建云服务器,执行成功！
+2024-01-10 17:36:27,679 - [test_cloud_server.py - 70] - INFO:测试编号:创建云服务器,测试标题:创建云服务器,执行成功！
+2024-01-10 17:37:18,819 - [test_cloud_server.py - 70] - INFO:测试编号:创建云服务器,测试标题:创建云服务器,执行成功！
+2024-01-10 17:37:18,819 - [test_cloud_server.py - 70] - INFO:测试编号:创建云服务器,测试标题:创建云服务器,执行成功！
+2024-01-10 17:38:32,475 - [object_page.py - 88] - ERROR://*[@id="rc-tabs-1-tab-2"]元素点击失败
+2024-01-10 17:38:32,475 - [object_page.py - 88] - ERROR://*[@id="rc-tabs-1-tab-2"]元素点击失败
+2024-01-10 17:38:32,475 - [object_page.py - 88] - ERROR://*[@id="rc-tabs-1-tab-2"]元素点击失败
+2024-01-10 17:39:53,556 - [object_page.py - 88] - ERROR://*[@id="rc-tabs-1-panel-2"]/div/div[1]/button元素点击失败
+2024-01-10 17:39:53,556 - [object_page.py - 88] - ERROR://*[@id="rc-tabs-1-panel-2"]/div/div[1]/button元素点击失败
+2024-01-10 17:39:53,556 - [object_page.py - 88] - ERROR://*[@id="rc-tabs-1-panel-2"]/div/div[1]/button元素点击失败
+2024-01-10 17:42:14,278 - [test_cloud_server.py - 93] - INFO:测试编号:创建端口映射,测试标题:创建端口映射,执行成功！
+2024-01-10 17:42:14,278 - [test_cloud_server.py - 93] - INFO:测试编号:创建端口映射,测试标题:创建端口映射,执行成功！
+2024-01-10 17:55:15,981 - [transport.py - 1893] - ERROR:Exception (client): Error reading SSH protocol banner
+2024-01-10 17:55:15,981 - [transport.py - 1893] - ERROR:Exception (client): Error reading SSH protocol banner
+2024-01-10 17:55:16,016 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-10 17:55:16,016 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-10 17:55:16,017 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2292, in _check_banner
+2024-01-10 17:55:16,017 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2292, in _check_banner
+2024-01-10 17:55:16,018 - [transport.py - 1891] - ERROR:    buf = self.packetizer.readline(timeout)
+2024-01-10 17:55:16,018 - [transport.py - 1891] - ERROR:    buf = self.packetizer.readline(timeout)
+2024-01-10 17:55:16,018 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 374, in readline
+2024-01-10 17:55:16,018 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 374, in readline
+2024-01-10 17:55:16,018 - [transport.py - 1891] - ERROR:    buf += self._read_timeout(timeout)
+2024-01-10 17:55:16,018 - [transport.py - 1891] - ERROR:    buf += self._read_timeout(timeout)
+2024-01-10 17:55:16,019 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 603, in _read_timeout
+2024-01-10 17:55:16,019 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 603, in _read_timeout
+2024-01-10 17:55:16,019 - [transport.py - 1891] - ERROR:    raise EOFError()
+2024-01-10 17:55:16,019 - [transport.py - 1891] - ERROR:    raise EOFError()
+2024-01-10 17:55:16,020 - [transport.py - 1891] - ERROR:EOFError
+2024-01-10 17:55:16,020 - [transport.py - 1891] - ERROR:EOFError
+2024-01-10 17:55:16,020 - [transport.py - 1891] - ERROR:
+2024-01-10 17:55:16,020 - [transport.py - 1891] - ERROR:
+2024-01-10 17:55:16,020 - [transport.py - 1891] - ERROR:During handling of the above exception, another exception occurred:
+2024-01-10 17:55:16,020 - [transport.py - 1891] - ERROR:During handling of the above exception, another exception occurred:
+2024-01-10 17:55:16,022 - [transport.py - 1891] - ERROR:
+2024-01-10 17:55:16,022 - [transport.py - 1891] - ERROR:
+2024-01-10 17:55:16,022 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-10 17:55:16,022 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-10 17:55:16,023 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2113, in run
+2024-01-10 17:55:16,023 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2113, in run
+2024-01-10 17:55:16,023 - [transport.py - 1891] - ERROR:    self._check_banner()
+2024-01-10 17:55:16,023 - [transport.py - 1891] - ERROR:    self._check_banner()
+2024-01-10 17:55:16,024 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2296, in _check_banner
+2024-01-10 17:55:16,024 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2296, in _check_banner
+2024-01-10 17:55:16,024 - [transport.py - 1891] - ERROR:    raise SSHException(
+2024-01-10 17:55:16,024 - [transport.py - 1891] - ERROR:    raise SSHException(
+2024-01-10 17:55:16,025 - [transport.py - 1891] - ERROR:paramiko.ssh_exception.SSHException: Error reading SSH protocol banner
+2024-01-10 17:55:16,025 - [transport.py - 1891] - ERROR:paramiko.ssh_exception.SSHException: Error reading SSH protocol banner
+2024-01-10 17:55:16,025 - [transport.py - 1891] - ERROR:
+2024-01-10 17:55:16,025 - [transport.py - 1891] - ERROR:
+2024-01-10 17:55:16,027 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41100失败
+2024-01-10 17:55:16,027 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41100失败
+2024-01-10 17:55:16,027 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41100失败
+2024-01-10 17:55:16,702 - [test_cloud_server.py - 155] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-10 17:55:16,702 - [test_cloud_server.py - 155] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-10 17:55:16,702 - [test_cloud_server.py - 155] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-10 17:58:19,791 - [connectionpool.py - 823] - WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002D7C84846A0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/4e3e041f182896f13f84881868c00ca1
+2024-01-10 17:58:19,791 - [connectionpool.py - 823] - WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002D7C84846A0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/4e3e041f182896f13f84881868c00ca1
+2024-01-10 17:58:23,863 - [connectionpool.py - 823] - WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002D7C86E7460>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/4e3e041f182896f13f84881868c00ca1
+2024-01-10 17:58:23,863 - [connectionpool.py - 823] - WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002D7C86E7460>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/4e3e041f182896f13f84881868c00ca1
+2024-01-10 17:58:27,941 - [connectionpool.py - 823] - WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002D7C86E72E0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/4e3e041f182896f13f84881868c00ca1
+2024-01-10 17:58:27,941 - [connectionpool.py - 823] - WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002D7C86E72E0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/4e3e041f182896f13f84881868c00ca1
+2024-01-10 17:58:55,396 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-10 17:58:55,396 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-10 17:58:55,637 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-10 17:58:55,637 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-10 17:58:55,688 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-10 17:58:55,688 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-10 17:58:57,803 - [test_cloud_server.py - 120] - INFO:测试编号:4,测试标题:验证端口映射,成功!
+2024-01-10 17:58:57,803 - [test_cloud_server.py - 120] - INFO:测试编号:4,测试标题:验证端口映射,成功!
+2024-01-11 15:37:45,533 - [object_page.py - 160] - ERROR:元素为/html/body/div[3]/div/div[2]/div/div[2]/div[2]/div/form/div[6]/div/div[2]/div/div/div查询文本失败
+2024-01-11 15:37:45,533 - [object_page.py - 160] - ERROR:元素为/html/body/div[3]/div/div[2]/div/div[2]/div[2]/div/form/div[6]/div/div[2]/div/div/div查询文本失败
+2024-01-11 15:37:45,533 - [object_page.py - 160] - ERROR:元素为/html/body/div[3]/div/div[2]/div/div[2]/div[2]/div/form/div[6]/div/div[2]/div/div/div查询文本失败
+2024-01-11 15:38:55,543 - [object_page.py - 160] - ERROR:元素为//*[@id="rc-tabs-1-panel-2"]/div/div[2]/div/div/div/div/div/div/div/table/tbody/tr[1]/td[5]查询文本失败
+2024-01-11 15:38:55,543 - [object_page.py - 160] - ERROR:元素为//*[@id="rc-tabs-1-panel-2"]/div/div[2]/div/div/div/div/div/div/div/table/tbody/tr[1]/td[5]查询文本失败
+2024-01-11 15:38:55,543 - [object_page.py - 160] - ERROR:元素为//*[@id="rc-tabs-1-panel-2"]/div/div[2]/div/div/div/div/div/div/div/table/tbody/tr[1]/td[5]查询文本失败
+2024-01-11 15:41:05,784 - [test_cloud_server.py - 149] - INFO:测试编号:4,测试标题:验证端口映射,成功!
+2024-01-11 15:41:05,784 - [test_cloud_server.py - 149] - INFO:测试编号:4,测试标题:验证端口映射,成功!
+2024-01-11 15:42:03,692 - [object_page.py - 88] - ERROR://*[@id="rc-tabs-1-panel-2"]/div/div[2]/div/div/div/div/div/div/div/table/tbody/tr[1]/td[8]/span/span[3]元素点击失败
+2024-01-11 15:42:03,692 - [object_page.py - 88] - ERROR://*[@id="rc-tabs-1-panel-2"]/div/div[2]/div/div/div/div/div/div/div/table/tbody/tr[1]/td[8]/span/span[3]元素点击失败
+2024-01-11 15:42:03,692 - [object_page.py - 88] - ERROR://*[@id="rc-tabs-1-panel-2"]/div/div[2]/div/div/div/div/div/div/div/table/tbody/tr[1]/td[8]/span/span[3]元素点击失败
+2024-01-11 15:42:52,334 - [test_cloud_server.py - 149] - INFO:测试编号:4,测试标题:验证端口映射,成功!
+2024-01-11 15:42:52,334 - [test_cloud_server.py - 149] - INFO:测试编号:4,测试标题:验证端口映射,成功!
+2024-01-11 15:47:47,514 - [test_cloud_server.py - 151] - INFO:测试编号:4,测试标题:验证端口映射,成功!
+2024-01-11 15:47:47,514 - [test_cloud_server.py - 151] - INFO:测试编号:4,测试标题:验证端口映射,成功!
+2024-01-11 16:11:54,305 - [test_cloud_server.py - 177] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-11 16:11:54,305 - [test_cloud_server.py - 177] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-11 16:13:47,909 - [test_cloud_server.py - 177] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-11 16:13:47,909 - [test_cloud_server.py - 177] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-11 16:22:09,478 - [object_page.py - 204] - ERROR:元素为//*[@class="text-[21px] font-semibold text-ellipsis pr-[15px]"]获取该元素对象失败
+2024-01-11 16:22:09,478 - [object_page.py - 204] - ERROR:元素为//*[@class="text-[21px] font-semibold text-ellipsis pr-[15px]"]获取该元素对象失败
+2024-01-11 16:22:09,478 - [object_page.py - 204] - ERROR:元素为//*[@class="text-[21px] font-semibold text-ellipsis pr-[15px]"]获取该元素对象失败
+2024-01-11 16:39:31,289 - [test_cloud_server.py - 177] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-11 16:39:31,289 - [test_cloud_server.py - 177] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-11 16:45:34,523 - [object_page.py - 49] - ERROR:切换窗口失败
+2024-01-11 16:45:34,523 - [object_page.py - 49] - ERROR:切换窗口失败
+2024-01-11 16:45:34,523 - [object_page.py - 49] - ERROR:切换窗口失败
+2024-01-11 16:46:59,092 - [test_cloud_server.py - 183] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-11 16:46:59,092 - [test_cloud_server.py - 183] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-11 16:56:38,363 - [test_cloud_server.py - 213] - INFO:测试编号:7,测试标题:重启实例,成功!
+2024-01-11 16:56:38,363 - [test_cloud_server.py - 213] - INFO:测试编号:7,测试标题:重启实例,成功!
+2024-01-11 16:58:48,990 - [test_cloud_server.py - 213] - INFO:测试编号:7,测试标题:重启实例,成功!
+2024-01-11 16:58:48,990 - [test_cloud_server.py - 213] - INFO:测试编号:7,测试标题:重启实例,成功!
+2024-01-11 17:03:06,569 - [test_cloud_server.py - 244] - INFO:测试编号:8,测试标题:关闭实例,成功!
+2024-01-11 17:03:06,569 - [test_cloud_server.py - 244] - INFO:测试编号:8,测试标题:关闭实例,成功!
+2024-01-11 17:15:48,841 - [test_cloud_server.py - 273] - INFO:测试编号:9,测试标题:启动实例,成功!
+2024-01-11 17:15:48,841 - [test_cloud_server.py - 273] - INFO:测试编号:9,测试标题:启动实例,成功!
+2024-01-11 17:24:56,957 - [test_cloud_server.py - 154] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-11 17:24:56,957 - [test_cloud_server.py - 154] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-11 17:24:57,076 - [test_cloud_server.py - 240] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-01-11 17:24:57,076 - [test_cloud_server.py - 240] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-01-11 17:29:32,921 - [test_cloud_server.py - 154] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-11 17:29:32,921 - [test_cloud_server.py - 154] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-11 17:36:57,911 - [test_cloud_server.py - 298] - INFO:测试编号:10,测试标题:删除实例,成功!
+2024-01-11 17:36:57,911 - [test_cloud_server.py - 298] - INFO:测试编号:10,测试标题:删除实例,成功!
+2024-01-11 17:38:48,064 - [test_cloud_server.py - 297] - INFO:测试编号:10,测试标题:删除实例,成功!
+2024-01-11 17:38:48,064 - [test_cloud_server.py - 297] - INFO:测试编号:10,测试标题:删除实例,成功!
+2024-01-16 14:17:51,884 - [test_cloud_server.py - 39] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-16 14:17:51,884 - [test_cloud_server.py - 39] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-16 14:17:52,615 - [test_cloud_server.py - 92] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-16 14:17:52,615 - [test_cloud_server.py - 92] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-01-16 14:17:55,667 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-16 14:17:55,667 - [transport.py - 1893] - INFO:Connected (version 2.0, client OpenSSH_8.2p1)
+2024-01-16 14:17:55,915 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-16 14:17:55,915 - [transport.py - 1893] - INFO:Authentication (publickey) failed.
+2024-01-16 14:17:55,967 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-16 14:17:55,967 - [transport.py - 1893] - INFO:Authentication (password) successful!
+2024-01-16 14:17:56,654 - [test_cloud_server.py - 117] - INFO:测试编号:4,测试标题:验证端口映射,成功!
+2024-01-16 14:17:56,654 - [test_cloud_server.py - 117] - INFO:测试编号:4,测试标题:验证端口映射,成功!
+2024-01-16 14:17:56,796 - [test_cloud_server.py - 136] - INFO:测试编号:5,测试标题:删除端口映射,成功!
+2024-01-16 14:17:56,796 - [test_cloud_server.py - 136] - INFO:测试编号:5,测试标题:删除端口映射,成功!
+2024-01-16 14:17:56,836 - [test_cloud_server.py - 153] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-16 14:17:56,836 - [test_cloud_server.py - 153] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-16 14:18:06,102 - [test_cloud_server.py - 175] - INFO:测试编号:7,测试标题:重启实例,成功!
+2024-01-16 14:18:06,102 - [test_cloud_server.py - 175] - INFO:测试编号:7,测试标题:重启实例,成功!
+2024-01-16 14:18:12,344 - [test_cloud_server.py - 197] - INFO:测试编号:8,测试标题:关闭实例,成功!
+2024-01-16 14:18:12,344 - [test_cloud_server.py - 197] - INFO:测试编号:8,测试标题:关闭实例,成功!
+2024-01-16 14:18:15,564 - [test_cloud_server.py - 219] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-01-16 14:18:15,564 - [test_cloud_server.py - 219] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-01-16 14:18:15,663 - [test_cloud_server.py - 238] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-01-16 14:18:15,663 - [test_cloud_server.py - 238] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-01-16 14:19:53,332 - [test_s3_storage.py - 43] - INFO:测试编号:1,测试标题:创建存储罐,成功!
+2024-01-16 14:19:53,332 - [test_s3_storage.py - 43] - INFO:测试编号:1,测试标题:创建存储罐,成功!
+2024-01-16 14:19:53,428 - [test_s3_storage.py - 65] - INFO:测试编号:2,测试标题:在存储罐中创建文件夹,成功!
+2024-01-16 14:19:53,428 - [test_s3_storage.py - 65] - INFO:测试编号:2,测试标题:在存储罐中创建文件夹,成功!
+2024-01-16 14:19:53,798 - [test_s3_storage.py - 130] - INFO:测试编号:5,测试标题:在储存罐中下载文件,成功!
+2024-01-16 14:19:53,798 - [test_s3_storage.py - 130] - INFO:测试编号:5,测试标题:在储存罐中下载文件,成功!
+2024-01-16 14:19:53,899 - [test_s3_storage.py - 150] - INFO:测试编号:6,测试标题:清空存储罐,成功!
+2024-01-16 14:19:53,899 - [test_s3_storage.py - 150] - INFO:测试编号:6,测试标题:清空存储罐,成功!
+2024-01-16 14:19:54,486 - [test_s3_storage.py - 175] - INFO:测试编号:7,测试标题:删除存储罐,成功!
+2024-01-16 14:19:54,486 - [test_s3_storage.py - 175] - INFO:测试编号:7,测试标题:删除存储罐,成功!
+2024-01-16 14:21:55,218 - [test_s3_storage.py - 43] - INFO:测试编号:1,测试标题:创建存储罐,成功!
+2024-01-16 14:21:55,218 - [test_s3_storage.py - 43] - INFO:测试编号:1,测试标题:创建存储罐,成功!
+2024-01-16 14:21:55,308 - [test_s3_storage.py - 65] - INFO:测试编号:2,测试标题:在存储罐中创建文件夹,成功!
+2024-01-16 14:21:55,308 - [test_s3_storage.py - 65] - INFO:测试编号:2,测试标题:在存储罐中创建文件夹,成功!
+2024-01-16 14:21:56,267 - [test_s3_storage.py - 88] - INFO:测试编号:3,测试标题:在存储罐中创建文件,成功!
+2024-01-16 14:21:56,267 - [test_s3_storage.py - 88] - INFO:测试编号:3,测试标题:在存储罐中创建文件,成功!
+2024-01-16 14:21:56,674 - [test_s3_storage.py - 130] - INFO:测试编号:5,测试标题:在储存罐中下载文件,成功!
+2024-01-16 14:21:56,674 - [test_s3_storage.py - 130] - INFO:测试编号:5,测试标题:在储存罐中下载文件,成功!
+2024-01-16 14:22:17,408 - [test_s3_storage.py - 150] - INFO:测试编号:6,测试标题:清空存储罐,成功!
+2024-01-16 14:22:17,408 - [test_s3_storage.py - 150] - INFO:测试编号:6,测试标题:清空存储罐,成功!
+2024-01-16 14:22:17,754 - [test_s3_storage.py - 175] - INFO:测试编号:7,测试标题:删除存储罐,成功!
+2024-01-16 14:22:17,754 - [test_s3_storage.py - 175] - INFO:测试编号:7,测试标题:删除存储罐,成功!
+2024-01-16 14:22:27,358 - [test_s3_storage.py - 43] - INFO:测试编号:1,测试标题:创建存储罐,成功!
+2024-01-16 14:22:27,358 - [test_s3_storage.py - 43] - INFO:测试编号:1,测试标题:创建存储罐,成功!
+2024-01-16 14:22:27,452 - [test_s3_storage.py - 65] - INFO:测试编号:2,测试标题:在存储罐中创建文件夹,成功!
+2024-01-16 14:22:27,452 - [test_s3_storage.py - 65] - INFO:测试编号:2,测试标题:在存储罐中创建文件夹,成功!
+2024-01-16 14:22:27,788 - [test_s3_storage.py - 88] - INFO:测试编号:3,测试标题:在存储罐中创建文件,成功!
+2024-01-16 14:22:27,788 - [test_s3_storage.py - 88] - INFO:测试编号:3,测试标题:在存储罐中创建文件,成功!
+2024-01-16 14:22:28,189 - [test_s3_storage.py - 113] - INFO:测试编号:4,测试标题:在存储罐中的文件夹中上传文件,成功!
+2024-01-16 14:22:28,189 - [test_s3_storage.py - 113] - INFO:测试编号:4,测试标题:在存储罐中的文件夹中上传文件,成功!
+2024-01-16 14:22:28,681 - [test_s3_storage.py - 130] - INFO:测试编号:5,测试标题:在储存罐中下载文件,成功!
+2024-01-16 14:22:28,681 - [test_s3_storage.py - 130] - INFO:测试编号:5,测试标题:在储存罐中下载文件,成功!
+2024-01-16 14:23:08,827 - [test_s3_storage.py - 150] - INFO:测试编号:6,测试标题:清空存储罐,成功!
+2024-01-16 14:23:08,827 - [test_s3_storage.py - 150] - INFO:测试编号:6,测试标题:清空存储罐,成功!
+2024-01-16 14:23:09,128 - [test_s3_storage.py - 175] - INFO:测试编号:7,测试标题:删除存储罐,成功!
+2024-01-16 14:23:09,128 - [test_s3_storage.py - 175] - INFO:测试编号:7,测试标题:删除存储罐,成功!
+2024-01-26 14:22:53,937 - [test_cloud_server.py - 39] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-26 14:22:53,937 - [test_cloud_server.py - 39] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-01-26 14:22:54,008 - [test_cloud_server.py - 153] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-26 14:22:54,008 - [test_cloud_server.py - 153] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-26 14:23:20,654 - [test_cloud_server.py - 153] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-26 14:23:20,654 - [test_cloud_server.py - 153] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-26 14:28:12,551 - [test_cloud_server.py - 156] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-26 14:28:12,551 - [test_cloud_server.py - 156] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-26 14:38:10,464 - [test_cloud_server.py - 153] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-26 14:38:10,464 - [test_cloud_server.py - 153] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-26 14:45:38,740 - [test_cloud_server.py - 153] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-01-26 14:45:38,740 - [test_cloud_server.py - 153] - INFO:测试编号:6,测试标题:访问实例,成功!

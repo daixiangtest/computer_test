@@ -15,7 +15,7 @@
 
 - case_id: 4
   case_title: "验证端口映射"
-  case_data: { name: "ubuntu",passwd: "Dx3826729",ip: "61.172.179.73" }
+  case_data: { name: "ubuntu",passwd: "123456" }
   text: ''
 
 - case_id: 5
@@ -30,16 +30,21 @@
 
 - case_id: 7
   case_title: "重启实例"
-  case_data: { name: "ubuntu1",passwd: 123456 }
+  case_data: { name: "ubuntu1",starts: "重启中" }
   text: ''
 
 - case_id: 8
   case_title: "关闭实例"
-  case_data: { name: "ubuntu1",passwd: 123456 }
+  case_data: { name: "ubuntu1",starts: "关闭中" }
   text: ''
 
 - case_id: 9
-  case_title: "验证实例过期"
-  case_data: { name: "ubuntu1",passwd: 123456 }
+  case_title: "启动实例"
+  case_data: { name: "ubuntu1",starts: "启动中" }
+  text: ''
+
+- case_id: 10
+  case_title: "删除实例"
+  case_data: { name: "ubuntu1" }
   text: ''
 ...

@@ -78,7 +78,7 @@ class TestS3Storage:
         try:
             # 指定罐的名称创建文件
             res2 = self.s3.upload_s3(self.bucket_name, '../../datas/interfaces/test.py',
-                                     file_name=case['case_data']['file_name'], file_type='.py')
+                                     file_name=case['case_data']['file_name'])
             assert res2['code'] == 200
             assert res2['data']['name'] == case['case_data']['file_name']
             # 查询这个罐信息中文件是否存在是否视为一个文件
@@ -101,7 +101,7 @@ class TestS3Storage:
         try:
             # 指定罐的名称的文件中上传文件
             res2 = self.s3.upload_s3(self.bucket_name, '../../datas/interfaces/test.py',
-                                     file_name=case['case_data']['file_name'], file_type='.py',
+                                     file_name=case['case_data']['file_name'],
                                      prefix=case['case_data']['dir_name'])
             assert res2['code'] == 200
             assert case['case_data']['dir_name'] and case['case_data']['file_name'] in res2['data']['name']

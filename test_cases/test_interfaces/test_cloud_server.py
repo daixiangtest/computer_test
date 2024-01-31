@@ -32,11 +32,9 @@ class TestCloudServer:
             res = self.cs.test_login(case['case_data']['phone_number'], case['case_data']['passwd'])
             res1 = self.cs.spec()
             res2 = self.cs.image()
-            res3 = self.cs.duration()
             assert res['code'] == 200
             assert res1['code'] == 200
             assert res2['code'] == 200
-            assert res3['code'] == 200
             assert res['data'] is not None
             logger.info(f"测试编号:{case['case_id']},测试标题:{case['case_title']},成功!")
         except Exception as e:
@@ -54,8 +52,8 @@ class TestCloudServer:
         allure.attach(body=self.cs.host, name="请求地址")
         try:
             res = self.cs.instance_create(case['case_data']['name'], case['case_data']['passwd'])
-            set_ini_data(CFI_COMPUTER, 'id', 'computer_id', res['data']['id'])
             assert res['code'] == 200
+            set_ini_data(CFI_COMPUTER, 'id', 'computer_id', res['data']['id'])
             assert res['data']['name'] == case['case_data']['name']
             assert res['data']['id'] is not None
             res1 = self.cs.instance()
@@ -114,6 +112,7 @@ class TestCloudServer:
             mc = MySshClient(public_ip, public_port, username, str(passwd))
             a1, a2, a3 = mc.exec_command('pwd')
             a = a2.read().decode()
+
             assert 'home' in a
             logger.info(f"测试编号:{case['case_id']},测试标题:{case['case_title']},成功!")
         except Exception as e:
@@ -225,17 +224,26 @@ class TestCloudServer:
 
     @allure.suite('云服务器')
     @allure.description("删除实例")
-    @pytest.mark.skip("暂时跳过")
+    # @pytest.mark.skip("暂时跳过")
     def test_del_computer(self, mysql_db):
         case = self.cases[8]
         allure.dynamic.title(case['case_title'])
         allure.attach(body=self.cs.host, name="请求地址")
         try:
             computer_id = get_ini_data(CFI_COMPUTER, 'id', 'computer_id')
-            a = mysql_db.cud('DELETE FROM compute_instances WHERE id=%s;', (computer_id,))
-
-            assert a == 1
+            res = self.cs.del_computer(computer_id)
+            assert res['code'] == 200
             add_yaml_data(os.path.join(DATA_DIR, 'computer_id.yaml'), computer_id)
+            count = 0
+            while count <= 10:
+                a = mysql_db.find_count('SELECT * FROM compute_instances WHERE id=%s;', (computer_id,))
+                if a == 0:
+                    break
+                count += 1
+                time.sleep(3)
+                if count == 11:
+                    print("实例删除不成功")
+                    raise AssertionError
             logger.info(f"测试编号:{case['case_id']},测试标题:{case['case_title']},成功!")
         except Exception as e:
             logger.error(

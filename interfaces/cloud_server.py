@@ -8,15 +8,16 @@ from interfaces.projects_computer import ProjectsComputer
 
 class CloudServer(ProjectsComputer):
 
-    def instance_create(self, name, passwd):
+    def instance_create(self, name, passwd, public_key=""):
         """
         创建云服务器实例
+        :param public_key: ssh配置本地公钥
         :param name: 实例名称
         :param passwd: 登录实例的用户名密码，用户名为ubuntu
         :return:
         """
         url = f"{self.host}/api/v1/instance"
-        payload = f'duration=1&imageId=1&name={name}&password={passwd}&specId=1'
+        payload = f'imageId=1&name={name}&password={passwd}&specId=1&publicKey={public_key}'
         headers = {'Authorization': self.token,
                    'Content-Type': 'application/x-www-form-urlencoded'}
         response = requests.request("POST", url, headers=headers, data=payload)
@@ -147,8 +148,14 @@ class CloudServer(ProjectsComputer):
                 raise AssertionError
         return True
 
+    def del_computer(self, computer_id):
+        url = f"https://api.computeshare.newtouch.com/v1/instance/{computer_id}"
+        headers = {'Authorization': self.token}
+        response = requests.request("DELETE", url, headers=headers)
+        return response.json()
+
 
 if __name__ == '__main__':
     cc = CloudServer('18326447662', 'Dx3826729')
-    a = cc.stop("7ba640dc-d518-4261-ab87-1d9176f3b00d")
-    print(a)
+    # a = cc.instance_create("ubuntu1", "123456")
+    cc.del_computer("149566e8-91c6-43d2-b6f2-9e2e4c9913df")

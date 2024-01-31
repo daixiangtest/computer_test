@@ -296,3 +296,71 @@
 2024-01-08 10:26:54,094 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41099失败
 2024-01-08 10:26:54,094 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41099失败
 2024-01-08 10:26:54,094 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41099失败
+2024-01-10 16:25:42,922 - [object_page.py - 160] - ERROR:元素为//*[@id="rc-tabs-1-panel-1"]/div[2]/div[1]/div/div[1]/div[4]/label[2]查询文本失败
+2024-01-10 16:25:42,922 - [object_page.py - 160] - ERROR:元素为//*[@id="rc-tabs-1-panel-1"]/div[2]/div[1]/div/div[1]/div[4]/label[2]查询文本失败
+2024-01-10 16:25:42,922 - [object_page.py - 160] - ERROR:元素为//*[@id="rc-tabs-1-panel-1"]/div[2]/div[1]/div/div[1]/div[4]/label[2]查询文本失败
+2024-01-10 16:54:28,360 - [object_page.py - 160] - ERROR:元素为//*[@id="rc-tabs-1-panel-1"]/div[2]/div[1]/div/div[1]/div[4]/label[2]查询文本失败
+2024-01-10 16:54:28,360 - [object_page.py - 160] - ERROR:元素为//*[@id="rc-tabs-1-panel-1"]/div[2]/div[1]/div/div[1]/div[4]/label[2]查询文本失败
+2024-01-10 16:54:28,360 - [object_page.py - 160] - ERROR:元素为//*[@id="rc-tabs-1-panel-1"]/div[2]/div[1]/div/div[1]/div[4]/label[2]查询文本失败
+2024-01-10 17:38:32,475 - [object_page.py - 88] - ERROR://*[@id="rc-tabs-1-tab-2"]元素点击失败
+2024-01-10 17:38:32,475 - [object_page.py - 88] - ERROR://*[@id="rc-tabs-1-tab-2"]元素点击失败
+2024-01-10 17:38:32,475 - [object_page.py - 88] - ERROR://*[@id="rc-tabs-1-tab-2"]元素点击失败
+2024-01-10 17:39:53,556 - [object_page.py - 88] - ERROR://*[@id="rc-tabs-1-panel-2"]/div/div[1]/button元素点击失败
+2024-01-10 17:39:53,556 - [object_page.py - 88] - ERROR://*[@id="rc-tabs-1-panel-2"]/div/div[1]/button元素点击失败
+2024-01-10 17:39:53,556 - [object_page.py - 88] - ERROR://*[@id="rc-tabs-1-panel-2"]/div/div[1]/button元素点击失败
+2024-01-10 17:55:15,981 - [transport.py - 1893] - ERROR:Exception (client): Error reading SSH protocol banner
+2024-01-10 17:55:15,981 - [transport.py - 1893] - ERROR:Exception (client): Error reading SSH protocol banner
+2024-01-10 17:55:16,016 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-10 17:55:16,016 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-10 17:55:16,017 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2292, in _check_banner
+2024-01-10 17:55:16,017 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2292, in _check_banner
+2024-01-10 17:55:16,018 - [transport.py - 1891] - ERROR:    buf = self.packetizer.readline(timeout)
+2024-01-10 17:55:16,018 - [transport.py - 1891] - ERROR:    buf = self.packetizer.readline(timeout)
+2024-01-10 17:55:16,018 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 374, in readline
+2024-01-10 17:55:16,018 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 374, in readline
+2024-01-10 17:55:16,018 - [transport.py - 1891] - ERROR:    buf += self._read_timeout(timeout)
+2024-01-10 17:55:16,018 - [transport.py - 1891] - ERROR:    buf += self._read_timeout(timeout)
+2024-01-10 17:55:16,019 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 603, in _read_timeout
+2024-01-10 17:55:16,019 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 603, in _read_timeout
+2024-01-10 17:55:16,019 - [transport.py - 1891] - ERROR:    raise EOFError()
+2024-01-10 17:55:16,019 - [transport.py - 1891] - ERROR:    raise EOFError()
+2024-01-10 17:55:16,020 - [transport.py - 1891] - ERROR:EOFError
+2024-01-10 17:55:16,020 - [transport.py - 1891] - ERROR:EOFError
+2024-01-10 17:55:16,020 - [transport.py - 1891] - ERROR:
+2024-01-10 17:55:16,020 - [transport.py - 1891] - ERROR:
+2024-01-10 17:55:16,020 - [transport.py - 1891] - ERROR:During handling of the above exception, another exception occurred:
+2024-01-10 17:55:16,020 - [transport.py - 1891] - ERROR:During handling of the above exception, another exception occurred:
+2024-01-10 17:55:16,022 - [transport.py - 1891] - ERROR:
+2024-01-10 17:55:16,022 - [transport.py - 1891] - ERROR:
+2024-01-10 17:55:16,022 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-10 17:55:16,022 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-01-10 17:55:16,023 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2113, in run
+2024-01-10 17:55:16,023 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2113, in run
+2024-01-10 17:55:16,023 - [transport.py - 1891] - ERROR:    self._check_banner()
+2024-01-10 17:55:16,023 - [transport.py - 1891] - ERROR:    self._check_banner()
+2024-01-10 17:55:16,024 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2296, in _check_banner
+2024-01-10 17:55:16,024 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2296, in _check_banner
+2024-01-10 17:55:16,024 - [transport.py - 1891] - ERROR:    raise SSHException(
+2024-01-10 17:55:16,024 - [transport.py - 1891] - ERROR:    raise SSHException(
+2024-01-10 17:55:16,025 - [transport.py - 1891] - ERROR:paramiko.ssh_exception.SSHException: Error reading SSH protocol banner
+2024-01-10 17:55:16,025 - [transport.py - 1891] - ERROR:paramiko.ssh_exception.SSHException: Error reading SSH protocol banner
+2024-01-10 17:55:16,025 - [transport.py - 1891] - ERROR:
+2024-01-10 17:55:16,025 - [transport.py - 1891] - ERROR:
+2024-01-10 17:55:16,027 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41100失败
+2024-01-10 17:55:16,027 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41100失败
+2024-01-10 17:55:16,027 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41100失败
+2024-01-11 15:37:45,533 - [object_page.py - 160] - ERROR:元素为/html/body/div[3]/div/div[2]/div/div[2]/div[2]/div/form/div[6]/div/div[2]/div/div/div查询文本失败
+2024-01-11 15:37:45,533 - [object_page.py - 160] - ERROR:元素为/html/body/div[3]/div/div[2]/div/div[2]/div[2]/div/form/div[6]/div/div[2]/div/div/div查询文本失败
+2024-01-11 15:37:45,533 - [object_page.py - 160] - ERROR:元素为/html/body/div[3]/div/div[2]/div/div[2]/div[2]/div/form/div[6]/div/div[2]/div/div/div查询文本失败
+2024-01-11 15:38:55,543 - [object_page.py - 160] - ERROR:元素为//*[@id="rc-tabs-1-panel-2"]/div/div[2]/div/div/div/div/div/div/div/table/tbody/tr[1]/td[5]查询文本失败
+2024-01-11 15:38:55,543 - [object_page.py - 160] - ERROR:元素为//*[@id="rc-tabs-1-panel-2"]/div/div[2]/div/div/div/div/div/div/div/table/tbody/tr[1]/td[5]查询文本失败
+2024-01-11 15:38:55,543 - [object_page.py - 160] - ERROR:元素为//*[@id="rc-tabs-1-panel-2"]/div/div[2]/div/div/div/div/div/div/div/table/tbody/tr[1]/td[5]查询文本失败
+2024-01-11 15:42:03,692 - [object_page.py - 88] - ERROR://*[@id="rc-tabs-1-panel-2"]/div/div[2]/div/div/div/div/div/div/div/table/tbody/tr[1]/td[8]/span/span[3]元素点击失败
+2024-01-11 15:42:03,692 - [object_page.py - 88] - ERROR://*[@id="rc-tabs-1-panel-2"]/div/div[2]/div/div/div/div/div/div/div/table/tbody/tr[1]/td[8]/span/span[3]元素点击失败
+2024-01-11 15:42:03,692 - [object_page.py - 88] - ERROR://*[@id="rc-tabs-1-panel-2"]/div/div[2]/div/div/div/div/div/div/div/table/tbody/tr[1]/td[8]/span/span[3]元素点击失败
+2024-01-11 16:22:09,478 - [object_page.py - 204] - ERROR:元素为//*[@class="text-[21px] font-semibold text-ellipsis pr-[15px]"]获取该元素对象失败
+2024-01-11 16:22:09,478 - [object_page.py - 204] - ERROR:元素为//*[@class="text-[21px] font-semibold text-ellipsis pr-[15px]"]获取该元素对象失败
+2024-01-11 16:22:09,478 - [object_page.py - 204] - ERROR:元素为//*[@class="text-[21px] font-semibold text-ellipsis pr-[15px]"]获取该元素对象失败
+2024-01-11 16:45:34,523 - [object_page.py - 49] - ERROR:切换窗口失败
+2024-01-11 16:45:34,523 - [object_page.py - 49] - ERROR:切换窗口失败
+2024-01-11 16:45:34,523 - [object_page.py - 49] - ERROR:切换窗口失败

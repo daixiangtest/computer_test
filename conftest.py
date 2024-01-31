@@ -3,10 +3,12 @@ import time
 import allure
 import pytest
 from selenium import webdriver
+
+from comms.constants import CFI
 from comms.dbutils import DBUtils
 from comms.log_utils import get_logger
 from comms.yaml_utils import get_ini_data, set_ini_data
-from web.selenium.page.create_project import CreateProject
+from interfaces.projects_computer import ProjectsComputer
 
 
 @pytest.fixture(scope="function")
@@ -21,7 +23,7 @@ def connect_db():
     driver.quit()  # 关闭浏览器
 
 
-@pytest.fixture(scope='class')
+@pytest.fixture(scope='function')
 def connect_db1():
     option = webdriver.ChromeOptions()
     # option.add_argument('headless')
@@ -42,25 +44,10 @@ def mysql_db():
 @pytest.fixture(scope='session', autouse=False)
 def set_token():
     try:
-        option = webdriver.ChromeOptions()
-        # option.add_argument('headless')
-        option.add_argument("--user-data-dir=" + get_ini_data('version', 'chrome_Default'))  # 添加获取到的配置文件路径
-        # option.add_experimental_option('detach', True)  # 浏览器不会自动关闭
-        driver = webdriver.Chrome(options=option)  # 打开配置插件的chrome浏览器
-        driver.maximize_window()  # 浏览器窗口最大化
-        cp = CreateProject(driver)
-        driver.get(get_ini_data('url', 'get_url'))
-        hamster = driver.current_window_handle
-        driver.execute_script("window.open('https://github.com/daixiang11');")
-        cp.longin(get_ini_data('github', 'user'), get_ini_data('github', 'passwd'))
-        tk = driver.execute_script(
-            f'return localStorage.getItem("token")')
-        set_ini_data("token", "hamster", tk)
-        cp.window(1)
-        print(driver.title)
-        session = driver.get_cookie("user_session")
-        set_ini_data("token", "github", session["value"])
-        driver.quit()
+        pc = ProjectsComputer.test_login(get_ini_data(CFI, 'computer', 'phone'),
+                                         get_ini_data(CFI, 'computer', 'passwd'))
+        tk = pc['data']['token']
+        set_ini_data(CFI, "token", "computer", tk)
         print("获取token成功")
     except Exception as e:
         print("项目夹具获取token失败")

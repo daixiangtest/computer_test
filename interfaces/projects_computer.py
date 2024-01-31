@@ -48,15 +48,15 @@ class ProjectsComputer:
         response = requests.request("GET", url, headers=headers)
         return response.json()
 
-    def duration(self):
-        """
-        查询创建实例可以选择的使用时长
-        :return:
-        """
-        url = f"{self.host}/api/v1/compute/duration"
-        headers = {'Authorization': self.token}
-        response = requests.request("GET", url, headers=headers)
-        return response.json()
+    # def duration(self):
+    #     """
+    #     查询创建实例可以选择的使用时长
+    #     :return:
+    #     """
+    #     url = f"{self.host}/api/v1/compute/duration"
+    #     headers = {'Authorization': self.token}
+    #     response = requests.request("GET", url, headers=headers)
+    #     return response.json()
 
     def instance(self):
         """
@@ -72,6 +72,6 @@ class ProjectsComputer:
 
 if __name__ == '__main__':
     p = ProjectsComputer('18326447662', 'Dx3826729')
-    print(p.token)
-    a = p.instance()
-    print(a)
+    # print(p.token)
+    # a = p.instance()
+    # print(a)
