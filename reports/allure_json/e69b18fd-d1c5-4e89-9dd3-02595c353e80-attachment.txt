@@ -1,0 +1,4 @@
+DEBUG    urllib3.connectionpool:connectionpool.py:1014 Starting new HTTPS connection (1): computeshare.newtouch.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:473 https://computeshare.newtouch.com:443 "GET /api/v1/storage/test-test01/objects/download?key=test01.py HTTP/1.1" 200 44
+DEBUG    charset_normalizer:api.py:437 Encoding detection: utf_8 is most likely the one.
+INFO     root:test_s3_storage.py:130 测试编号:5,测试标题:在储存罐中下载文件,成功!

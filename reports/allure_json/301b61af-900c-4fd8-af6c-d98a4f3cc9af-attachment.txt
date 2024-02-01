@@ -1,0 +1,5 @@
+DEBUG    urllib3.connectionpool:connectionpool.py:1014 Starting new HTTPS connection (1): computeshare.newtouch.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:473 https://computeshare.newtouch.com:443 "POST /api/v1/s3bucket HTTP/1.1" 200 80
+DEBUG    urllib3.connectionpool:connectionpool.py:1014 Starting new HTTPS connection (1): computeshare.newtouch.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:473 https://computeshare.newtouch.com:443 "GET /api/v1/s3bucket?page=1&size=10&name= HTTP/1.1" 200 292
+INFO     root:test_s3_storage.py:43 测试编号:1,测试标题:创建存储罐,成功!

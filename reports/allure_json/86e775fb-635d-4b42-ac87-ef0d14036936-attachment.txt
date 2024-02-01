@@ -1,0 +1,22 @@
+DEBUG    paramiko.transport:transport.py:1893 starting thread (client mode): 0x95bc31f0
+DEBUG    paramiko.transport:transport.py:1893 Local version/idstring: SSH-2.0-paramiko_3.3.1
+ERROR    paramiko.transport:transport.py:1893 Exception (client): Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+ERROR    paramiko.transport:transport.py:1891 Traceback (most recent call last):
+ERROR    paramiko.transport:transport.py:1891   File "D:\Python\lib\site-packages\paramiko\transport.py", line 2292, in _check_banner
+ERROR    paramiko.transport:transport.py:1891     buf = self.packetizer.readline(timeout)
+ERROR    paramiko.transport:transport.py:1891   File "D:\Python\lib\site-packages\paramiko\packet.py", line 374, in readline
+ERROR    paramiko.transport:transport.py:1891     buf += self._read_timeout(timeout)
+ERROR    paramiko.transport:transport.py:1891   File "D:\Python\lib\site-packages\paramiko\packet.py", line 601, in _read_timeout
+ERROR    paramiko.transport:transport.py:1891     x = self.__socket.recv(128)
+ERROR    paramiko.transport:transport.py:1891 ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+ERROR    paramiko.transport:transport.py:1891 
+ERROR    paramiko.transport:transport.py:1891 During handling of the above exception, another exception occurred:
+ERROR    paramiko.transport:transport.py:1891 
+ERROR    paramiko.transport:transport.py:1891 Traceback (most recent call last):
+ERROR    paramiko.transport:transport.py:1891   File "D:\Python\lib\site-packages\paramiko\transport.py", line 2113, in run
+ERROR    paramiko.transport:transport.py:1891     self._check_banner()
+ERROR    paramiko.transport:transport.py:1891   File "D:\Python\lib\site-packages\paramiko\transport.py", line 2296, in _check_banner
+ERROR    paramiko.transport:transport.py:1891     raise SSHException(
+ERROR    paramiko.transport:transport.py:1891 paramiko.ssh_exception.SSHException: Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+ERROR    paramiko.transport:transport.py:1891 
+ERROR    root:my_ssh_client.py:19 链接服务器61.172.179.73:41109失败

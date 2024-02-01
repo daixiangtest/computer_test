@@ -1,0 +1,9 @@
+DEBUG    urllib3.connectionpool:connectionpool.py:1014 Starting new HTTPS connection (1): computeshare.newtouch.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:473 https://computeshare.newtouch.com:443 "GET /api/v1/network-mappings/page?page=1&size=10 HTTP/1.1" 200 1051
+DEBUG    urllib3.connectionpool:connectionpool.py:1014 Starting new HTTPS connection (1): computeshare.newtouch.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:473 https://computeshare.newtouch.com:443 "GET /api/v1/network-mappings/next?computerId=7342af11-d159-4d53-ae9c-19cd91431ce4 HTTP/1.1" 200 90
+DEBUG    urllib3.connectionpool:connectionpool.py:1014 Starting new HTTPS connection (1): computeshare.newtouch.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:473 https://computeshare.newtouch.com:443 "POST /api/v1/network-mappings HTTP/1.1" 200 376
+DEBUG    urllib3.connectionpool:connectionpool.py:1014 Starting new HTTPS connection (1): computeshare.newtouch.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:473 https://computeshare.newtouch.com:443 "GET /api/v1/network-mappings/page?page=1&size=10 HTTP/1.1" 200 1384
+INFO     root:test_cloud_server.py:93 测试编号:3,测试标题:创建端口映射,成功!

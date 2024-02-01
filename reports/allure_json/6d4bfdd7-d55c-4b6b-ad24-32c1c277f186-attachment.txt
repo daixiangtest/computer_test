@@ -1,0 +1,5 @@
+DEBUG    urllib3.connectionpool:connectionpool.py:1014 Starting new HTTPS connection (1): computeshare.newtouch.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:473 https://computeshare.newtouch.com:443 "POST /api/v1/storage/test-test01/mkdir HTTP/1.1" 200 51
+DEBUG    urllib3.connectionpool:connectionpool.py:1014 Starting new HTTPS connection (1): computeshare.newtouch.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:473 https://computeshare.newtouch.com:443 "GET /api/v1/s3bucket/test-test01/objects?prefix=&page=1&size=10&name= HTTP/1.1" 200 258
+INFO     root:test_s3_storage.py:65 测试编号:2,测试标题:在存储罐中创建文件夹,成功!

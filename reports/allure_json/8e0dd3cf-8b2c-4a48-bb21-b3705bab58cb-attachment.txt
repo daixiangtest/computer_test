@@ -1,0 +1,3 @@
+DEBUG    urllib3.connectionpool:connectionpool.py:1014 Starting new HTTPS connection (1): computeshare.newtouch.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:473 https://computeshare.newtouch.com:443 "PUT /api/v1/instance/7342af11-d159-4d53-ae9c-19cd91431ce4/stop HTTP/1.1" 200 33
+INFO     root:test_cloud_server.py:197 测试编号:8,测试标题:关闭实例,成功!

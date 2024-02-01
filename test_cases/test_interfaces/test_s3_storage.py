@@ -77,7 +77,7 @@ class TestS3Storage:
         allure.attach(body=self.s3.host, name="请求地址")
         try:
             # 指定罐的名称创建文件
-            res2 = self.s3.upload_s3(self.bucket_name, '../../datas/interfaces/test.py',
+            res2 = self.s3.upload_s3(self.bucket_name, './datas/interfaces/test.py',
                                      file_name=case['case_data']['file_name'])
             assert res2['code'] == 200
             assert res2['data']['name'] == case['case_data']['file_name']
@@ -100,7 +100,7 @@ class TestS3Storage:
         allure.attach(body=self.s3.host, name="请求地址")
         try:
             # 指定罐的名称的文件中上传文件
-            res2 = self.s3.upload_s3(self.bucket_name, '../../datas/interfaces/test.py',
+            res2 = self.s3.upload_s3(self.bucket_name, './datas/interfaces/test.py',
                                      file_name=case['case_data']['file_name'],
                                      prefix=case['case_data']['dir_name'])
             assert res2['code'] == 200

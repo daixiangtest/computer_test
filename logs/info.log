@@ -1105,3 +1105,86 @@
 2024-01-26 14:38:10,464 - [test_cloud_server.py - 153] - INFO:测试编号:6,测试标题:访问实例,成功!
 2024-01-26 14:45:38,740 - [test_cloud_server.py - 153] - INFO:测试编号:6,测试标题:访问实例,成功!
 2024-01-26 14:45:38,740 - [test_cloud_server.py - 153] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-02-01 11:35:35,855 - [test_cloud_server.py - 39] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-02-01 11:35:35,855 - [test_cloud_server.py - 39] - INFO:测试编号:1,测试标题:密码登录账户,成功!
+2024-02-01 11:35:52,795 - [test_cloud_server.py - 63] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-02-01 11:35:52,795 - [test_cloud_server.py - 63] - INFO:测试编号:2,测试标题:创建云服务器,成功!
+2024-02-01 11:35:53,535 - [test_cloud_server.py - 93] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-02-01 11:35:53,535 - [test_cloud_server.py - 93] - INFO:测试编号:3,测试标题:创建端口映射,成功!
+2024-02-01 11:36:00,717 - [transport.py - 1893] - ERROR:Exception (client): Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-02-01 11:36:00,717 - [transport.py - 1893] - ERROR:Exception (client): Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-02-01 11:36:00,743 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-02-01 11:36:00,743 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-02-01 11:36:00,743 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2292, in _check_banner
+2024-02-01 11:36:00,743 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2292, in _check_banner
+2024-02-01 11:36:00,743 - [transport.py - 1891] - ERROR:    buf = self.packetizer.readline(timeout)
+2024-02-01 11:36:00,743 - [transport.py - 1891] - ERROR:    buf = self.packetizer.readline(timeout)
+2024-02-01 11:36:00,743 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 374, in readline
+2024-02-01 11:36:00,743 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 374, in readline
+2024-02-01 11:36:00,743 - [transport.py - 1891] - ERROR:    buf += self._read_timeout(timeout)
+2024-02-01 11:36:00,743 - [transport.py - 1891] - ERROR:    buf += self._read_timeout(timeout)
+2024-02-01 11:36:00,744 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 601, in _read_timeout
+2024-02-01 11:36:00,744 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\packet.py", line 601, in _read_timeout
+2024-02-01 11:36:00,744 - [transport.py - 1891] - ERROR:    x = self.__socket.recv(128)
+2024-02-01 11:36:00,744 - [transport.py - 1891] - ERROR:    x = self.__socket.recv(128)
+2024-02-01 11:36:00,744 - [transport.py - 1891] - ERROR:ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-02-01 11:36:00,744 - [transport.py - 1891] - ERROR:ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-02-01 11:36:00,744 - [transport.py - 1891] - ERROR:
+2024-02-01 11:36:00,744 - [transport.py - 1891] - ERROR:
+2024-02-01 11:36:00,744 - [transport.py - 1891] - ERROR:During handling of the above exception, another exception occurred:
+2024-02-01 11:36:00,744 - [transport.py - 1891] - ERROR:During handling of the above exception, another exception occurred:
+2024-02-01 11:36:00,744 - [transport.py - 1891] - ERROR:
+2024-02-01 11:36:00,744 - [transport.py - 1891] - ERROR:
+2024-02-01 11:36:00,744 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-02-01 11:36:00,744 - [transport.py - 1891] - ERROR:Traceback (most recent call last):
+2024-02-01 11:36:00,744 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2113, in run
+2024-02-01 11:36:00,744 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2113, in run
+2024-02-01 11:36:00,744 - [transport.py - 1891] - ERROR:    self._check_banner()
+2024-02-01 11:36:00,744 - [transport.py - 1891] - ERROR:    self._check_banner()
+2024-02-01 11:36:00,744 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2296, in _check_banner
+2024-02-01 11:36:00,744 - [transport.py - 1891] - ERROR:  File "D:\Python\lib\site-packages\paramiko\transport.py", line 2296, in _check_banner
+2024-02-01 11:36:00,745 - [transport.py - 1891] - ERROR:    raise SSHException(
+2024-02-01 11:36:00,745 - [transport.py - 1891] - ERROR:    raise SSHException(
+2024-02-01 11:36:00,745 - [transport.py - 1891] - ERROR:paramiko.ssh_exception.SSHException: Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-02-01 11:36:00,745 - [transport.py - 1891] - ERROR:paramiko.ssh_exception.SSHException: Error reading SSH protocol banner[WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2024-02-01 11:36:00,745 - [transport.py - 1891] - ERROR:
+2024-02-01 11:36:00,745 - [transport.py - 1891] - ERROR:
+2024-02-01 11:36:00,746 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41109失败
+2024-02-01 11:36:00,746 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41109失败
+2024-02-01 11:36:00,746 - [my_ssh_client.py - 19] - ERROR:链接服务器61.172.179.73:41109失败
+2024-02-01 11:36:04,583 - [test_cloud_server.py - 154] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-02-01 11:36:04,583 - [test_cloud_server.py - 154] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-02-01 11:36:04,583 - [test_cloud_server.py - 154] - INFO:测试编号:6,测试标题:访问实例,成功!
+2024-02-01 11:36:16,983 - [test_cloud_server.py - 175] - INFO:测试编号:7,测试标题:重启实例,成功!
+2024-02-01 11:36:16,983 - [test_cloud_server.py - 175] - INFO:测试编号:7,测试标题:重启实例,成功!
+2024-02-01 11:36:16,983 - [test_cloud_server.py - 175] - INFO:测试编号:7,测试标题:重启实例,成功!
+2024-02-01 11:36:23,237 - [test_cloud_server.py - 197] - INFO:测试编号:8,测试标题:关闭实例,成功!
+2024-02-01 11:36:23,237 - [test_cloud_server.py - 197] - INFO:测试编号:8,测试标题:关闭实例,成功!
+2024-02-01 11:36:23,237 - [test_cloud_server.py - 197] - INFO:测试编号:8,测试标题:关闭实例,成功!
+2024-02-01 11:36:26,409 - [test_cloud_server.py - 219] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-02-01 11:36:26,409 - [test_cloud_server.py - 219] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-02-01 11:36:26,409 - [test_cloud_server.py - 219] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-02-01 11:36:33,544 - [test_cloud_server.py - 249] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-02-01 11:36:33,544 - [test_cloud_server.py - 249] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-02-01 11:36:33,544 - [test_cloud_server.py - 249] - INFO:测试编号:9,测试标题:验证实例过期,成功!
+2024-02-01 11:36:34,358 - [test_s3_storage.py - 43] - INFO:测试编号:1,测试标题:创建存储罐,成功!
+2024-02-01 11:36:34,358 - [test_s3_storage.py - 43] - INFO:测试编号:1,测试标题:创建存储罐,成功!
+2024-02-01 11:36:34,358 - [test_s3_storage.py - 43] - INFO:测试编号:1,测试标题:创建存储罐,成功!
+2024-02-01 11:36:34,444 - [test_s3_storage.py - 65] - INFO:测试编号:2,测试标题:在存储罐中创建文件夹,成功!
+2024-02-01 11:36:34,444 - [test_s3_storage.py - 65] - INFO:测试编号:2,测试标题:在存储罐中创建文件夹,成功!
+2024-02-01 11:36:34,444 - [test_s3_storage.py - 65] - INFO:测试编号:2,测试标题:在存储罐中创建文件夹,成功!
+2024-02-01 11:36:35,272 - [test_s3_storage.py - 88] - INFO:测试编号:3,测试标题:在存储罐中创建文件,成功!
+2024-02-01 11:36:35,272 - [test_s3_storage.py - 88] - INFO:测试编号:3,测试标题:在存储罐中创建文件,成功!
+2024-02-01 11:36:35,272 - [test_s3_storage.py - 88] - INFO:测试编号:3,测试标题:在存储罐中创建文件,成功!
+2024-02-01 11:36:35,589 - [test_s3_storage.py - 113] - INFO:测试编号:4,测试标题:在存储罐中的文件夹中上传文件,成功!
+2024-02-01 11:36:35,589 - [test_s3_storage.py - 113] - INFO:测试编号:4,测试标题:在存储罐中的文件夹中上传文件,成功!
+2024-02-01 11:36:35,589 - [test_s3_storage.py - 113] - INFO:测试编号:4,测试标题:在存储罐中的文件夹中上传文件,成功!
+2024-02-01 11:36:36,084 - [test_s3_storage.py - 130] - INFO:测试编号:5,测试标题:在储存罐中下载文件,成功!
+2024-02-01 11:36:36,084 - [test_s3_storage.py - 130] - INFO:测试编号:5,测试标题:在储存罐中下载文件,成功!
+2024-02-01 11:36:36,084 - [test_s3_storage.py - 130] - INFO:测试编号:5,测试标题:在储存罐中下载文件,成功!
+2024-02-01 11:37:16,303 - [test_s3_storage.py - 150] - INFO:测试编号:6,测试标题:清空存储罐,成功!
+2024-02-01 11:37:16,303 - [test_s3_storage.py - 150] - INFO:测试编号:6,测试标题:清空存储罐,成功!
+2024-02-01 11:37:16,303 - [test_s3_storage.py - 150] - INFO:测试编号:6,测试标题:清空存储罐,成功!
+2024-02-01 11:37:16,550 - [test_s3_storage.py - 175] - INFO:测试编号:7,测试标题:删除存储罐,成功!
+2024-02-01 11:37:16,550 - [test_s3_storage.py - 175] - INFO:测试编号:7,测试标题:删除存储罐,成功!
+2024-02-01 11:37:16,550 - [test_s3_storage.py - 175] - INFO:测试编号:7,测试标题:删除存储罐,成功!

@@ -1,6 +1,6 @@
 import time
 import pytest, os
-from comms.constants import REPORT_JSON, REPORT_HTML, CASE_CLOUD_SERVER
+from comms.constants import REPORT_JSON, REPORT_HTML, CASE_CLOUD_SERVER, CASE_S3
 
 """
 运行指定case模块和案例同时生成测试报告
@@ -15,5 +15,5 @@ from comms.constants import REPORT_JSON, REPORT_HTML, CASE_CLOUD_SERVER
 
 if __name__ == '__main__':
     pytest.main(
-        ['-vs', '--alluredir', REPORT_JSON, '--clean-alluredir', CASE_CLOUD_SERVER])
+        ['-vs', '--alluredir', REPORT_JSON, '--clean-alluredir', CASE_CLOUD_SERVER, CASE_S3])
     os.system('allure generate %s -o %s --clean ' % (REPORT_JSON, REPORT_HTML))

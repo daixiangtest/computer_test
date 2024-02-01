@@ -1,0 +1,5 @@
+DEBUG    urllib3.connectionpool:connectionpool.py:1014 Starting new HTTPS connection (1): computeshare.newtouch.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:473 https://computeshare.newtouch.com:443 "POST /api/v1/instance HTTP/1.1" 200 105
+DEBUG    urllib3.connectionpool:connectionpool.py:1014 Starting new HTTPS connection (1): computeshare.newtouch.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:473 https://computeshare.newtouch.com:443 "GET /api/v1/instance HTTP/1.1" 200 None
+INFO     root:test_cloud_server.py:63 测试编号:2,测试标题:创建云服务器,成功!

@@ -23,7 +23,7 @@ class TestCloudServer:
 
     @allure.suite('云服务器')
     @allure.description("登录账户")
-    @pytest.mark.skip("测试通过了")
+    # @pytest.mark.skip("测试通过了")
     def test_login(self):
         case = self.cases[0]
         allure.dynamic.title(case['case_title'])
@@ -45,12 +45,13 @@ class TestCloudServer:
     # @pytest.mark.dependency()
     @allure.suite('云服务器')
     @allure.description("创建云服务器")
-    @pytest.mark.skip("跳过测试")
-    def test_create_computer(self):
+    # @pytest.mark.skip("跳过测试")
+    def test_create_computer(self, mysql_db):
         case = self.cases[1]
         allure.dynamic.title(case['case_title'])
         allure.attach(body=self.cs.host, name="请求地址")
         try:
+            mysql_db.cud('update agents set total_cpu=100, total_memory=100 WHERE ip="192.168.22.238";')
             res = self.cs.instance_create(case['case_data']['name'], case['case_data']['passwd'])
             assert res['code'] == 200
             set_ini_data(CFI_COMPUTER, 'id', 'computer_id', res['data']['id'])
@@ -68,7 +69,7 @@ class TestCloudServer:
     # @pytest.mark.dependency(depends="TestCloudServer:test_create_computer")
     @allure.suite('云服务器')
     @allure.description("创建端口映射")
-    @pytest.mark.skip('暂时跳过')
+    # @pytest.mark.skip('暂时跳过')
     def test_create_mapping(self):
         case = self.cases[2]
         allure.dynamic.title(case['case_title'])
@@ -90,6 +91,7 @@ class TestCloudServer:
             set_ini_data(CFI_COMPUTER, 'mapping', 'public_ip', res1['data']['publicIp'])
             set_ini_data(CFI_COMPUTER, 'mapping', 'public_port', str(res1['data']['publicPort']))
             logger.info(f"测试编号:{case['case_id']},测试标题:{case['case_title']},成功!")
+
         except Exception as e:
             logger.error(
                 f"测试编号:{case['case_title']},测试标题:{case['case_title']},执行失败!", e)
@@ -97,13 +99,13 @@ class TestCloudServer:
 
     @allure.suite('云服务器')
     @allure.description("验证端口映射")
-    @pytest.mark.skip('暂时跳过')
+    # @pytest.mark.skip('暂时跳过')
     def test_check_mapping(self):
         case = self.cases[3]
         allure.dynamic.title(case['case_title'])
         allure.attach(body=self.cs.host, name="请求地址")
         try:
-            time.sleep(3)
+            time.sleep(5)
             public_ip = get_ini_data(CFI_COMPUTER, 'mapping', 'public_ip')
             public_port = get_ini_data(CFI_COMPUTER, 'mapping', 'public_port')
             username = case['case_data']['name']
@@ -112,7 +114,6 @@ class TestCloudServer:
             mc = MySshClient(public_ip, public_port, username, str(passwd))
             a1, a2, a3 = mc.exec_command('pwd')
             a = a2.read().decode()
-
             assert 'home' in a
             logger.info(f"测试编号:{case['case_id']},测试标题:{case['case_title']},成功!")
         except Exception as e:
@@ -122,7 +123,7 @@ class TestCloudServer:
 
     @allure.suite('云服务器')
     @allure.description("删除端口映射")
-    @pytest.mark.skip('暂时跳过')
+    # @pytest.mark.skip('暂时跳过')
     def test_del_mapping(self, mysql_db):
         case = self.cases[4]
         allure.dynamic.title(case['case_title'])
@@ -131,8 +132,9 @@ class TestCloudServer:
             mapping_id = get_ini_data(CFI_COMPUTER, 'id', 'mapping_id')
             res = self.cs.del_mapping(mapping_id)
             assert res['code'] == 200
+            time.sleep(3)
             a = mysql_db.find_one('SELECT delete_state FROM network_mappings WHERE id=%s ;', mapping_id)
-            assert a[0] == 1
+            assert a is None
             logger.info(f"测试编号:{case['case_id']},测试标题:{case['case_title']},成功!")
         except Exception as e:
             logger.error(
@@ -148,7 +150,6 @@ class TestCloudServer:
         try:
             computer_id = get_ini_data(CFI_COMPUTER, 'id', 'computer_id')
             res = self.cs.vnc(computer_id)
-            print(res)
             assert 'https://' in res['data']
             logger.info(f"测试编号:{case['case_id']},测试标题:{case['case_title']},成功!")
         except Exception as e:
@@ -158,7 +159,7 @@ class TestCloudServer:
 
     @allure.suite('云服务器')
     @allure.description("重启实例")
-    @pytest.mark.skip("暂时跳过")
+    # @pytest.mark.skip("暂时跳过")
     def test_restart_computer(self, mysql_db):
         case = self.cases[6]
         allure.dynamic.title(case['case_title'])
@@ -169,7 +170,6 @@ class TestCloudServer:
             print(res)
             assert res['code'] == 200
             a = mysql_db.find_one('SELECT status FROM compute_instances WHERE id=%s;', computer_id)
-            print(a)
             assert a[0] == 5
             self.cs.wait_status(20, computer_id, 1)
             logger.info(f"测试编号:{case['case_id']},测试标题:{case['case_title']},成功!")
@@ -180,7 +180,7 @@ class TestCloudServer:
 
     @allure.suite('云服务器')
     @allure.description("关闭实例")
-    @pytest.mark.skip("暂时跳过")
+    # @pytest.mark.skip("暂时跳过")
     def test_stop_computer(self, mysql_db):
         case = self.cases[7]
         allure.dynamic.title(case['case_title'])
@@ -202,7 +202,7 @@ class TestCloudServer:
 
     @allure.suite('云服务器')
     @allure.description("启动实例")
-    @pytest.mark.skip("暂时跳过")
+    # @pytest.mark.skip("暂时跳过")
     def test_start_computer(self, mysql_db):
         case = self.cases[8]
         allure.dynamic.title(case['case_title'])
@@ -236,7 +236,9 @@ class TestCloudServer:
             add_yaml_data(os.path.join(DATA_DIR, 'computer_id.yaml'), computer_id)
             count = 0
             while count <= 10:
-                a = mysql_db.find_count('SELECT * FROM compute_instances WHERE id=%s;', (computer_id,))
+                db = DBUtils()
+                a = db.find_count('SELECT * FROM compute_instances WHERE id=%s;', (computer_id,))
+                db.close()
                 if a == 0:
                     break
                 count += 1
